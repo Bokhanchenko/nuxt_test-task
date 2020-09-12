@@ -1,0 +1,6890 @@
+{
+  "count": 282,
+  "results": [
+  {
+    "id": 153,
+    "name": "Інтер'єр і комфорт",
+    "product_standard_name": "Інтер'єр і комфорт",
+    "description": "Інтер'єр і комфорт",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/153.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 151,
+    "name": "Інтеркулер",
+    "product_standard_name": "Інтеркулер",
+    "description": "Інтеркулер",
+    "image_url": null,
+    "parent": {
+      "id": 65,
+      "name": "Вихлопна система",
+      "product_standard_name": "Вихлопна система",
+      "description": "Вихлопна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/65.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 65
+      },
+      {
+        "id": 299
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Автомобільні аксесуари",
+    "product_standard_name": "Автомобільні аксесуари",
+    "description": "Автомобільні аксесуари",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/7.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 8,
+    "name": "Акумулятор",
+    "product_standard_name": "Акумулятор",
+    "description": "Акумулятор",
+    "image_url": null,
+    "parent": {
+      "id": 550,
+      "name": "Електричні компоненти",
+      "product_standard_name": "Електричні компоненти",
+      "description": "Електричні компоненти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Амортизатор капота",
+    "product_standard_name": "Амортизатор капота",
+    "description": "Амортизатор капота",
+    "image_url": null,
+    "parent": {
+      "id": 67,
+      "name": "Газові пружини",
+      "product_standard_name": "Газові пружини",
+      "description": "Газові пружини",
+      "image_url": null,
+      "parent": {
+        "id": 271,
+        "name": "Оздоблення кузова",
+        "product_standard_name": "Оздоблення кузова",
+        "description": "Оздоблення кузова",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/271.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 271
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 67
+      },
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Амортизатор кришки багажника",
+    "product_standard_name": "Амортизатор кришки багажника",
+    "description": "Амортизатор кришки багажника",
+    "image_url": null,
+    "parent": {
+      "id": 67,
+      "name": "Газові пружини",
+      "product_standard_name": "Газові пружини",
+      "description": "Газові пружини",
+      "image_url": null,
+      "parent": {
+        "id": 271,
+        "name": "Оздоблення кузова",
+        "product_standard_name": "Оздоблення кузова",
+        "description": "Оздоблення кузова",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/271.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 271
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 67
+      },
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Амортизатори",
+    "product_standard_name": "Амортизатори",
+    "description": "Амортизатори",
+    "image_url": null,
+    "parent": {
+      "id": 300,
+      "name": "Підвіска",
+      "product_standard_name": "Підвіска",
+      "description": "Підвіска",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 143
+      },
+      {
+        "id": 300
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Бампер",
+    "product_standard_name": "Бампер",
+    "description": "Бампер",
+    "image_url": null,
+    "parent": {
+      "id": 271,
+      "name": "Оздоблення кузова",
+      "product_standard_name": "Оздоблення кузова",
+      "description": "Оздоблення кузова",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/271.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      },
+      {
+        "id": 271
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Бачок склоомивача",
+    "product_standard_name": "Бачок склоомивача",
+    "description": "Бачок склоомивача",
+    "image_url": null,
+    "parent": {
+      "id": 446,
+      "name": "Система очищення скла і фар",
+      "product_standard_name": "Система очищення скла і фар",
+      "description": "Система очищення скла і фар",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/446.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 446
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Бендикс стартера",
+    "product_standard_name": "Бендикс стартера",
+    "description": "Бендикс стартера",
+    "image_url": null,
+    "parent": {
+      "id": 550,
+      "name": "Електричні компоненти",
+      "product_standard_name": "Електричні компоненти",
+      "description": "Електричні компоненти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Блок управління свічками розжарювання",
+    "product_standard_name": "Блок управління свічками розжарювання",
+    "description": "Блок управління свічками розжарювання",
+    "image_url": null,
+    "parent": {
+      "id": 101,
+      "name": "Датчики реле та блоки керування",
+      "product_standard_name": "Датчики реле та блоки керування",
+      "description": "Датчики реле та блоки керування",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/101.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 101
+      },
+      {
+        "id": 104
+      },
+      {
+        "id": 443
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Блок циліндрів",
+    "product_standard_name": "Блок циліндрів",
+    "description": "Блок циліндрів",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Болт підвіски",
+    "product_standard_name": "Болт підвіски",
+    "description": "Болт підвіски",
+    "image_url": null,
+    "parent": {
+      "id": 300,
+      "name": "Підвіска",
+      "product_standard_name": "Підвіска",
+      "description": "Підвіска",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 300
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Бризковики",
+    "product_standard_name": "Бризковики",
+    "description": "Бризковики",
+    "image_url": null,
+    "parent": {
+      "id": 7,
+      "name": "Автомобільні аксесуари",
+      "product_standard_name": "Автомобільні аксесуари",
+      "description": "Автомобільні аксесуари",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/7.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Бігунок розподільника запалювання",
+    "product_standard_name": "Бігунок розподільника запалювання",
+    "description": "Бігунок розподільника запалювання",
+    "image_url": null,
+    "parent": {
+      "id": 443,
+      "name": "Система запалювання і розжарювання",
+      "product_standard_name": "Система запалювання і розжарювання",
+      "description": "Система запалювання і розжарювання",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/443.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 443
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Бічна панель",
+    "product_standard_name": "Бічна панель",
+    "description": "Бічна панель",
+    "image_url": null,
+    "parent": {
+      "id": 216,
+      "name": "Кузов",
+      "product_standard_name": "Кузов",
+      "description": "Кузов",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/216.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Бічний молдинг",
+    "product_standard_name": "Бічний молдинг",
+    "description": "Бічний молдинг",
+    "image_url": null,
+    "parent": {
+      "id": 216,
+      "name": "Кузов",
+      "product_standard_name": "Кузов",
+      "description": "Кузов",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/216.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 426,
+    "name": "Важіль незалежної підвіски колеса",
+    "product_standard_name": "Важіль незалежної підвіски колеса",
+    "description": "Важіль незалежної підвіски колеса",
+    "image_url": null,
+    "parent": {
+      "id": 300,
+      "name": "Підвіска",
+      "product_standard_name": "Підвіска",
+      "description": "Підвіска",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 300
+      }
+    ]
+  },
+  {
+    "id": 429,
+    "name": "Важіль склоочисника",
+    "product_standard_name": "Важіль склоочисника",
+    "description": "Важіль склоочисника",
+    "image_url": null,
+    "parent": {
+      "id": 446,
+      "name": "Система очищення скла і фар",
+      "product_standard_name": "Система очищення скла і фар",
+      "description": "Система очищення скла і фар",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/446.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 446
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Вакуумний насос гальмівної системи",
+    "product_standard_name": "Вакуумний насос гальмівної системи",
+    "description": "Вакуумний насос гальмівної системи",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Вентилятор обігрівача",
+    "product_standard_name": "Вентилятор обігрівача",
+    "description": "Вентилятор обігрівача",
+    "image_url": null,
+    "parent": {
+      "id": 190,
+      "name": "Кондиціонування повітря",
+      "product_standard_name": "Кондиціонування повітря",
+      "description": "Кондиціонування повітря",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/190.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 190
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Вентилятор охолодження",
+    "product_standard_name": "Вентилятор охолодження",
+    "description": "Вентилятор охолодження",
+    "image_url": null,
+    "parent": {
+      "id": 444,
+      "name": "Система охолодження",
+      "product_standard_name": "Система охолодження",
+      "description": "Система охолодження",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 444
+      },
+      {
+        "id": 445
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Вижимний підшипник (центральний вимикач зчеплення)",
+    "product_standard_name": "Вижимний підшипник (центральний вимикач зчеплення)",
+    "description": "Вижимний підшипник (центральний вимикач зчеплення)",
+    "image_url": null,
+    "parent": {
+      "id": 449,
+      "name": "Система зчеплення",
+      "product_standard_name": "Система зчеплення",
+      "description": "Система зчеплення",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/449.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 449
+      },
+      {
+        "id": 463
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Вимикач аварійної сигналізації",
+    "product_standard_name": "Вимикач аварійної сигналізації",
+    "description": "Вимикач аварійної сигналізації",
+    "image_url": null,
+    "parent": {
+      "id": 550,
+      "name": "Електричні компоненти",
+      "product_standard_name": "Електричні компоненти",
+      "description": "Електричні компоненти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 153
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Вимикач ліхтаря сигналу гальмування",
+    "product_standard_name": "Вимикач ліхтаря сигналу гальмування",
+    "description": "Вимикач ліхтаря сигналу гальмування",
+    "image_url": null,
+    "parent": {
+      "id": 101,
+      "name": "Датчики реле та блоки керування",
+      "product_standard_name": "Датчики реле та блоки керування",
+      "description": "Датчики реле та блоки керування",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/101.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 101
+      },
+      {
+        "id": 153
+      },
+      {
+        "id": 479
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Вимикач сигналу заднього ходу",
+    "product_standard_name": "Вимикач сигналу заднього ходу",
+    "description": "Вимикач сигналу заднього ходу",
+    "image_url": null,
+    "parent": {
+      "id": 488,
+      "name": "Трансмісія",
+      "product_standard_name": "Трансмісія",
+      "description": "Трансмісія",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/488.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 488
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Вимикач склопідіймача",
+    "product_standard_name": "Вимикач склопідіймача",
+    "description": "Вимикач склопідіймача",
+    "image_url": null,
+    "parent": {
+      "id": 101,
+      "name": "Датчики реле та блоки керування",
+      "product_standard_name": "Датчики реле та блоки керування",
+      "description": "Датчики реле та блоки керування",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/101.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 101
+      },
+      {
+        "id": 235
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Випускний клапан",
+    "product_standard_name": "Випускний клапан",
+    "description": "Випускний клапан",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Вихлопна система",
+    "product_standard_name": "Вихлопна система",
+    "description": "Вихлопна система",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/65.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 45,
+    "name": "Вкладиші розподільного вала",
+    "product_standard_name": "Вкладиші розподільного вала",
+    "description": "Вкладиші розподільного вала",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Вкладиші шатунні",
+    "product_standard_name": "Вкладиші шатунні",
+    "description": "Вкладиші шатунні",
+    "image_url": null,
+    "parent": {
+      "id": 26,
+      "name": "Блок циліндрів",
+      "product_standard_name": "Блок циліндрів",
+      "description": "Блок циліндрів",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 26
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Впускний клапан",
+    "product_standard_name": "Впускний клапан",
+    "description": "Впускний клапан",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Втулка стабілізатора",
+    "product_standard_name": "Втулка стабілізатора",
+    "description": "Втулка стабілізатора",
+    "image_url": null,
+    "parent": {
+      "id": 186,
+      "name": "Компоненти стабілізатора",
+      "product_standard_name": "Компоненти стабілізатора",
+      "description": "Компоненти стабілізатора",
+      "image_url": null,
+      "parent": {
+        "id": 300,
+        "name": "Підвіска",
+        "product_standard_name": "Підвіска",
+        "description": "Підвіска",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 300
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 186
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Втягуюче реле стартера",
+    "product_standard_name": "Втягуюче реле стартера",
+    "description": "Втягуюче реле стартера",
+    "image_url": null,
+    "parent": {
+      "id": 101,
+      "name": "Датчики реле та блоки керування",
+      "product_standard_name": "Датчики реле та блоки керування",
+      "description": "Датчики реле та блоки керування",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/101.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 101
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Відбійник амортизатора",
+    "product_standard_name": "Відбійник амортизатора",
+    "description": "Відбійник амортизатора",
+    "image_url": null,
+    "parent": {
+      "id": 300,
+      "name": "Підвіска",
+      "product_standard_name": "Підвіска",
+      "description": "Підвіска",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 300
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Віскомуфта вентилятора (муфта зчеплення вентилятора)",
+    "product_standard_name": "Віскомуфта вентилятора (муфта зчеплення вентилятора)",
+    "description": "Віскомуфта вентилятора (муфта зчеплення вентилятора)",
+    "image_url": null,
+    "parent": {
+      "id": 445,
+      "name": "Система охолодження двигуна",
+      "product_standard_name": "Система охолодження двигуна",
+      "description": "Система охолодження двигуна",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/445.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 445
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Газові пружини",
+    "product_standard_name": "Газові пружини",
+    "description": "Газові пружини",
+    "image_url": null,
+    "parent": {
+      "id": 271,
+      "name": "Оздоблення кузова",
+      "product_standard_name": "Оздоблення кузова",
+      "description": "Оздоблення кузова",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/271.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 271
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Гайка підвіски",
+    "product_standard_name": "Гайка підвіски",
+    "description": "Гайка підвіски",
+    "image_url": null,
+    "parent": {
+      "id": 300,
+      "name": "Підвіска",
+      "product_standard_name": "Підвіска",
+      "description": "Підвіска",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 300
+      }
+    ]
+  },
+  {
+    "id": 477,
+    "name": "Гальма",
+    "product_standard_name": "Гальма",
+    "description": "Гальма",
+    "image_url": null,
+    "parent": {
+      "id": 143,
+      "name": "Запчастини для ТО",
+      "product_standard_name": "Запчастини для ТО",
+      "description": "Запчастини для ТО",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/143.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 143
+      }
+    ]
+  },
+  {
+    "id": 478,
+    "name": "Гальмівна рідина",
+    "product_standard_name": "Гальмівна рідина",
+    "description": "Гальмівна рідина",
+    "image_url": null,
+    "parent": {
+      "id": 226,
+      "name": "Оливи і рідини",
+      "product_standard_name": "Оливи і рідини",
+      "description": "Оливи і рідини",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/226.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 226
+      },
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 479,
+    "name": "Гальмівна система",
+    "product_standard_name": "Гальмівна система",
+    "description": "Гальмівна система",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/479.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 480,
+    "name": "Гальмівна трубка",
+    "product_standard_name": "Гальмівна трубка",
+    "description": "Гальмівна трубка",
+    "image_url": null,
+    "parent": {
+      "id": 495,
+      "name": "Труби і шланги",
+      "product_standard_name": "Труби і шланги",
+      "description": "Труби і шланги",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/495.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 479
+      },
+      {
+        "id": 495
+      }
+    ]
+  },
+  {
+    "id": 481,
+    "name": "Гальмівний барабан",
+    "product_standard_name": "Гальмівний барабан",
+    "description": "Гальмівний барабан",
+    "image_url": null,
+    "parent": {
+      "id": 479,
+      "name": "Гальмівна система",
+      "product_standard_name": "Гальмівна система",
+      "description": "Гальмівна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/479.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 482,
+    "name": "Гальмівний диск",
+    "product_standard_name": "Гальмівний диск",
+    "description": "Гальмівний диск",
+    "image_url": null,
+    "parent": {
+      "id": 479,
+      "name": "Гальмівна система",
+      "product_standard_name": "Гальмівна система",
+      "description": "Гальмівна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/479.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 483,
+    "name": "Гальмівний супорт",
+    "product_standard_name": "Гальмівний супорт",
+    "description": "Гальмівний супорт",
+    "image_url": null,
+    "parent": {
+      "id": 479,
+      "name": "Гальмівна система",
+      "product_standard_name": "Гальмівна система",
+      "description": "Гальмівна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/479.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 484,
+    "name": "Гальмівний трос",
+    "product_standard_name": "Гальмівний трос",
+    "description": "Гальмівний трос",
+    "image_url": null,
+    "parent": {
+      "id": 479,
+      "name": "Гальмівна система",
+      "product_standard_name": "Гальмівна система",
+      "description": "Гальмівна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/479.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 485,
+    "name": "Гальмівний шланг",
+    "product_standard_name": "Гальмівний шланг",
+    "description": "Гальмівний шланг",
+    "image_url": null,
+    "parent": {
+      "id": 495,
+      "name": "Труби і шланги",
+      "product_standard_name": "Труби і шланги",
+      "description": "Труби і шланги",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/495.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 479
+      },
+      {
+        "id": 495
+      }
+    ]
+  },
+  {
+    "id": 486,
+    "name": "Гальмівні колодки",
+    "product_standard_name": "Гальмівні колодки",
+    "description": "Гальмівні колодки",
+    "image_url": null,
+    "parent": {
+      "id": 479,
+      "name": "Гальмівна система",
+      "product_standard_name": "Гальмівна система",
+      "description": "Гальмівна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/479.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 477
+      },
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Генератор",
+    "product_standard_name": "Генератор",
+    "description": "Генератор",
+    "image_url": null,
+    "parent": {
+      "id": 550,
+      "name": "Електричні компоненти",
+      "product_standard_name": "Електричні компоненти",
+      "description": "Електричні компоненти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Глушник",
+    "product_standard_name": "Глушник",
+    "description": "Глушник",
+    "image_url": null,
+    "parent": {
+      "id": 65,
+      "name": "Вихлопна система",
+      "product_standard_name": "Вихлопна система",
+      "description": "Вихлопна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/65.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 65
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Головний гальмівний циліндр",
+    "product_standard_name": "Головний гальмівний циліндр",
+    "description": "Головний гальмівний циліндр",
+    "image_url": null,
+    "parent": {
+      "id": 479,
+      "name": "Гальмівна система",
+      "product_standard_name": "Гальмівна система",
+      "description": "Гальмівна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/479.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Головний циліндр зчеплення",
+    "product_standard_name": "Головний циліндр зчеплення",
+    "description": "Головний циліндр зчеплення",
+    "image_url": null,
+    "parent": {
+      "id": 449,
+      "name": "Система зчеплення",
+      "product_standard_name": "Система зчеплення",
+      "description": "Система зчеплення",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/449.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 449
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Датчик abs",
+    "product_standard_name": "Датчик abs",
+    "description": "Датчик abs",
+    "image_url": null,
+    "parent": {
+      "id": 101,
+      "name": "Датчики реле та блоки керування",
+      "product_standard_name": "Датчики реле та блоки керування",
+      "description": "Датчики реле та блоки керування",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/101.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 100
+      },
+      {
+        "id": 101
+      },
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Датчик детонації",
+    "product_standard_name": "Датчик детонації",
+    "description": "Датчик детонації",
+    "image_url": null,
+    "parent": {
+      "id": 101,
+      "name": "Датчики реле та блоки керування",
+      "product_standard_name": "Датчики реле та блоки керування",
+      "description": "Датчики реле та блоки керування",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/101.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 100
+      },
+      {
+        "id": 101
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Датчик запасу палива",
+    "product_standard_name": "Датчик запасу палива",
+    "description": "Датчик запасу палива",
+    "image_url": null,
+    "parent": {
+      "id": 100,
+      "name": "Датчики",
+      "product_standard_name": "Датчики",
+      "description": "Датчики",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        },
+        {
+          "id": 550
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 100
+      },
+      {
+        "id": 101
+      },
+      {
+        "id": 447
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Датчик зносу гальмівних колодок",
+    "product_standard_name": "Датчик зносу гальмівних колодок",
+    "description": "Датчик зносу гальмівних колодок",
+    "image_url": null,
+    "parent": {
+      "id": 101,
+      "name": "Датчики реле та блоки керування",
+      "product_standard_name": "Датчики реле та блоки керування",
+      "description": "Датчики реле та блоки керування",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/101.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 100
+      },
+      {
+        "id": 101
+      },
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Датчик масової витрати повітря",
+    "product_standard_name": "Датчик масової витрати повітря",
+    "description": "Датчик масової витрати повітря",
+    "image_url": null,
+    "parent": {
+      "id": 101,
+      "name": "Датчики реле та блоки керування",
+      "product_standard_name": "Датчики реле та блоки керування",
+      "description": "Датчики реле та блоки керування",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/101.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 100
+      },
+      {
+        "id": 101
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Датчик парковки",
+    "product_standard_name": "Датчик парковки",
+    "description": "Датчик парковки",
+    "image_url": null,
+    "parent": {
+      "id": 101,
+      "name": "Датчики реле та блоки керування",
+      "product_standard_name": "Датчики реле та блоки керування",
+      "description": "Датчики реле та блоки керування",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/101.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 100
+      },
+      {
+        "id": 101
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Датчик положення дросельної заслінки",
+    "product_standard_name": "Датчик положення дросельної заслінки",
+    "description": "Датчик положення дросельної заслінки",
+    "image_url": null,
+    "parent": {
+      "id": 101,
+      "name": "Датчики реле та блоки керування",
+      "product_standard_name": "Датчики реле та блоки керування",
+      "description": "Датчики реле та блоки керування",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/101.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 100
+      },
+      {
+        "id": 101
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Датчик положення колінвала",
+    "product_standard_name": "Датчик положення колінвала",
+    "description": "Датчик положення колінвала",
+    "image_url": null,
+    "parent": {
+      "id": 101,
+      "name": "Датчики реле та блоки керування",
+      "product_standard_name": "Датчики реле та блоки керування",
+      "description": "Датчики реле та блоки керування",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/101.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 100
+      },
+      {
+        "id": 101
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Датчик положення розподільного вала",
+    "product_standard_name": "Датчик положення розподільного вала",
+    "description": "Датчик положення розподільного вала",
+    "image_url": null,
+    "parent": {
+      "id": 100,
+      "name": "Датчики",
+      "product_standard_name": "Датчики",
+      "description": "Датчики",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        },
+        {
+          "id": 550
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 100
+      },
+      {
+        "id": 101
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Датчик температури вихлопних газів",
+    "product_standard_name": "Датчик температури вихлопних газів",
+    "description": "Датчик температури вихлопних газів",
+    "image_url": null,
+    "parent": {
+      "id": 65,
+      "name": "Вихлопна система",
+      "product_standard_name": "Вихлопна система",
+      "description": "Вихлопна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/65.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 65
+      },
+      {
+        "id": 101
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Датчик температури впускного повітря",
+    "product_standard_name": "Датчик температури впускного повітря",
+    "description": "Датчик температури впускного повітря",
+    "image_url": null,
+    "parent": {
+      "id": 550,
+      "name": "Електричні компоненти",
+      "product_standard_name": "Електричні компоненти",
+      "description": "Електричні компоненти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Датчик температури охолоджуючої рідини",
+    "product_standard_name": "Датчик температури охолоджуючої рідини",
+    "description": "Датчик температури охолоджуючої рідини",
+    "image_url": null,
+    "parent": {
+      "id": 101,
+      "name": "Датчики реле та блоки керування",
+      "product_standard_name": "Датчики реле та блоки керування",
+      "description": "Датчики реле та блоки керування",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/101.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 100
+      },
+      {
+        "id": 101
+      },
+      {
+        "id": 445
+      }
+    ]
+  },
+  {
+    "id": 565,
+    "name": "Датчик тиску в шинах",
+    "product_standard_name": "Датчик тиску в шинах",
+    "description": "Датчик тиску в шинах",
+    "image_url": null,
+    "parent": {
+      "id": 100,
+      "name": "Датчики",
+      "product_standard_name": "Датчики",
+      "description": "Датчики",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        },
+        {
+          "id": 550
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 100
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Датчик тиску оливи",
+    "product_standard_name": "Датчик тиску оливи",
+    "description": "Датчик тиску оливи",
+    "image_url": null,
+    "parent": {
+      "id": 101,
+      "name": "Датчики реле та блоки керування",
+      "product_standard_name": "Датчики реле та блоки керування",
+      "description": "Датчики реле та блоки керування",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/101.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 101
+      },
+      {
+        "id": 448
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Датчики",
+    "product_standard_name": "Датчики",
+    "description": "Датчики",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Датчики реле та блоки керування",
+    "product_standard_name": "Датчики реле та блоки керування",
+    "description": "Датчики реле та блоки керування",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/101.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 104,
+    "name": "Двигун",
+    "product_standard_name": "Двигун",
+    "description": "Двигун",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 106,
+    "name": "Двигун склоочисника",
+    "product_standard_name": "Двигун склоочисника",
+    "description": "Двигун склоочисника",
+    "image_url": null,
+    "parent": {
+      "id": 458,
+      "name": "Склоочисник",
+      "product_standard_name": "Склоочисник",
+      "description": "Склоочисник",
+      "image_url": null,
+      "parent": {
+        "id": 550,
+        "name": "Електричні компоненти",
+        "product_standard_name": "Електричні компоненти",
+        "description": "Електричні компоненти",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 143
+        },
+        {
+          "id": 550
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 446
+      },
+      {
+        "id": 458
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Денні ходові вогні",
+    "product_standard_name": "Денні ходові вогні",
+    "description": "Денні ходові вогні",
+    "image_url": null,
+    "parent": {
+      "id": 261,
+      "name": "Освітлення",
+      "product_standard_name": "Освітлення",
+      "description": "Освітлення",
+      "image_url": null,
+      "parent": {
+        "id": 550,
+        "name": "Електричні компоненти",
+        "product_standard_name": "Електричні компоненти",
+        "description": "Електричні компоненти",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 143
+        },
+        {
+          "id": 550
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 261
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Диск зчеплення",
+    "product_standard_name": "Диск зчеплення",
+    "description": "Диск зчеплення",
+    "image_url": null,
+    "parent": {
+      "id": 463,
+      "name": "Зчеплення",
+      "product_standard_name": "Зчеплення",
+      "description": "Зчеплення",
+      "image_url": null,
+      "parent": {
+        "id": 488,
+        "name": "Трансмісія",
+        "product_standard_name": "Трансмісія",
+        "description": "Трансмісія",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/488.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 143
+        },
+        {
+          "id": 488
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 449
+      },
+      {
+        "id": 463
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Диск колісний",
+    "product_standard_name": "Диск колісний",
+    "description": "Диск колісний",
+    "image_url": null,
+    "parent": {
+      "id": 115,
+      "name": "Диски",
+      "product_standard_name": "Диски",
+      "description": "Диски",
+      "image_url": null,
+      "parent": {
+        "id": 326,
+        "name": "Привід колеса",
+        "product_standard_name": "Привід колеса",
+        "description": "Привід колеса",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/326.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 326
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 115
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Диски",
+    "product_standard_name": "Диски",
+    "description": "Диски",
+    "image_url": null,
+    "parent": {
+      "id": 326,
+      "name": "Привід колеса",
+      "product_standard_name": "Привід колеса",
+      "description": "Привід колеса",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/326.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 326
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Дросельна заслінка",
+    "product_standard_name": "Дросельна заслінка",
+    "description": "Дросельна заслінка",
+    "image_url": null,
+    "parent": {
+      "id": 447,
+      "name": "Система подачі палива",
+      "product_standard_name": "Система подачі палива",
+      "description": "Система подачі палива",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/447.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 447
+      }
+    ]
+  },
+  {
+    "id": 550,
+    "name": "Електричні компоненти",
+    "product_standard_name": "Електричні компоненти",
+    "description": "Електричні компоненти",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 557,
+    "name": "Електропроводка",
+    "product_standard_name": "Електропроводка",
+    "description": "Електропроводка",
+    "image_url": null,
+    "parent": {
+      "id": 550,
+      "name": "Електричні компоненти",
+      "product_standard_name": "Електричні компоненти",
+      "description": "Електричні компоненти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 558,
+    "name": "Емблема",
+    "product_standard_name": "Емблема",
+    "description": "Емблема",
+    "image_url": null,
+    "parent": {
+      "id": 271,
+      "name": "Оздоблення кузова",
+      "product_standard_name": "Оздоблення кузова",
+      "description": "Оздоблення кузова",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/271.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      },
+      {
+        "id": 271
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Заглушка бампера",
+    "product_standard_name": "Заглушка бампера",
+    "description": "Заглушка бампера",
+    "image_url": null,
+    "parent": {
+      "id": 15,
+      "name": "Бампер",
+      "product_standard_name": "Бампер",
+      "description": "Бампер",
+      "image_url": null,
+      "parent": {
+        "id": 271,
+        "name": "Оздоблення кузова",
+        "product_standard_name": "Оздоблення кузова",
+        "description": "Оздоблення кузова",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/271.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 216
+        },
+        {
+          "id": 271
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Заднє світло",
+    "product_standard_name": "Заднє світло",
+    "description": "Заднє світло",
+    "image_url": null,
+    "parent": {
+      "id": 261,
+      "name": "Освітлення",
+      "product_standard_name": "Освітлення",
+      "description": "Освітлення",
+      "image_url": null,
+      "parent": {
+        "id": 550,
+        "name": "Електричні компоненти",
+        "product_standard_name": "Електричні компоненти",
+        "description": "Електричні компоненти",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 143
+        },
+        {
+          "id": 550
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 261
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Задні амортизатори",
+    "product_standard_name": "Задні амортизатори",
+    "description": "Задні амортизатори",
+    "image_url": null,
+    "parent": {
+      "id": 11,
+      "name": "Амортизатори",
+      "product_standard_name": "Амортизатори",
+      "description": "Амортизатори",
+      "image_url": null,
+      "parent": {
+        "id": 300,
+        "name": "Підвіска",
+        "product_standard_name": "Підвіска",
+        "description": "Підвіска",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 143
+        },
+        {
+          "id": 300
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 11
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Задній бампер",
+    "product_standard_name": "Задній бампер",
+    "description": "Задній бампер",
+    "image_url": null,
+    "parent": {
+      "id": 15,
+      "name": "Бампер",
+      "product_standard_name": "Бампер",
+      "description": "Бампер",
+      "image_url": null,
+      "parent": {
+        "id": 271,
+        "name": "Оздоблення кузова",
+        "product_standard_name": "Оздоблення кузова",
+        "description": "Оздоблення кузова",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/271.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 216
+        },
+        {
+          "id": 271
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Задній гальмівний диск",
+    "product_standard_name": "Задній гальмівний диск",
+    "description": "Задній гальмівний диск",
+    "image_url": null,
+    "parent": {
+      "id": 482,
+      "name": "Гальмівний диск",
+      "product_standard_name": "Гальмівний диск",
+      "description": "Гальмівний диск",
+      "image_url": null,
+      "parent": {
+        "id": 479,
+        "name": "Гальмівна система",
+        "product_standard_name": "Гальмівна система",
+        "description": "Гальмівна система",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/479.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 479
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 482
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Запалювання",
+    "product_standard_name": "Запалювання",
+    "description": "Запалювання",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Запчастини для ТО",
+    "product_standard_name": "Запчастини для ТО",
+    "description": "Запчастини для ТО",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/143.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 144,
+    "name": "Запчастини стартера",
+    "product_standard_name": "Запчастини стартера",
+    "description": "Запчастини стартера",
+    "image_url": null,
+    "parent": {
+      "id": 550,
+      "name": "Електричні компоненти",
+      "product_standard_name": "Електричні компоненти",
+      "description": "Електричні компоненти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Захист гальмівного диска",
+    "product_standard_name": "Захист гальмівного диска",
+    "description": "Захист гальмівного диска",
+    "image_url": null,
+    "parent": {
+      "id": 479,
+      "name": "Гальмівна система",
+      "product_standard_name": "Гальмівна система",
+      "description": "Гальмівна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/479.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Захист двигуна",
+    "product_standard_name": "Захист двигуна",
+    "description": "Захист двигуна",
+    "image_url": null,
+    "parent": {
+      "id": 216,
+      "name": "Кузов",
+      "product_standard_name": "Кузов",
+      "description": "Кузов",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/216.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Звуковий сигнал",
+    "product_standard_name": "Звуковий сигнал",
+    "description": "Звуковий сигнал",
+    "image_url": null,
+    "parent": {
+      "id": 550,
+      "name": "Електричні компоненти",
+      "product_standard_name": "Електричні компоненти",
+      "description": "Електричні компоненти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 143
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 452,
+    "name": "Зливна пробка оливного піддона",
+    "product_standard_name": "Зливна пробка оливного піддона",
+    "description": "Зливна пробка оливного піддона",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Зовнішнє дзеркало",
+    "product_standard_name": "Зовнішнє дзеркало",
+    "description": "Зовнішнє дзеркало",
+    "image_url": null,
+    "parent": {
+      "id": 271,
+      "name": "Оздоблення кузова",
+      "product_standard_name": "Оздоблення кузова",
+      "description": "Оздоблення кузова",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/271.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      },
+      {
+        "id": 271
+      }
+    ]
+  },
+  {
+    "id": 463,
+    "name": "Зчеплення",
+    "product_standard_name": "Зчеплення",
+    "description": "Зчеплення",
+    "image_url": null,
+    "parent": {
+      "id": 488,
+      "name": "Трансмісія",
+      "product_standard_name": "Трансмісія",
+      "description": "Трансмісія",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/488.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 143
+      },
+      {
+        "id": 488
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Капот",
+    "product_standard_name": "Капот",
+    "description": "Капот",
+    "image_url": null,
+    "parent": {
+      "id": 216,
+      "name": "Кузов",
+      "product_standard_name": "Кузов",
+      "description": "Кузов",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/216.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Карданний вал",
+    "product_standard_name": "Карданний вал",
+    "description": "Карданний вал",
+    "image_url": null,
+    "parent": {
+      "id": 326,
+      "name": "Привід колеса",
+      "product_standard_name": "Привід колеса",
+      "description": "Привід колеса",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/326.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 326
+      },
+      {
+        "id": 488
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Каталізатор",
+    "product_standard_name": "Каталізатор",
+    "description": "Каталізатор",
+    "image_url": null,
+    "parent": {
+      "id": 65,
+      "name": "Вихлопна система",
+      "product_standard_name": "Вихлопна система",
+      "description": "Вихлопна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/65.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 65
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Килимки",
+    "product_standard_name": "Килимки",
+    "description": "Килимки",
+    "image_url": null,
+    "parent": {
+      "id": 7,
+      "name": "Автомобільні аксесуари",
+      "product_standard_name": "Автомобільні аксесуари",
+      "description": "Автомобільні аксесуари",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/7.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Клапан рециркуляції відпрацьованих газів (egr)",
+    "product_standard_name": "Клапан рециркуляції відпрацьованих газів (egr)",
+    "description": "Клапан рециркуляції відпрацьованих газів (egr)",
+    "image_url": null,
+    "parent": {
+      "id": 65,
+      "name": "Вихлопна система",
+      "product_standard_name": "Вихлопна система",
+      "description": "Вихлопна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/65.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 65
+      },
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Клапан управління системою охолодження",
+    "product_standard_name": "Клапан управління системою охолодження",
+    "description": "Клапан управління системою охолодження",
+    "image_url": null,
+    "parent": {
+      "id": 190,
+      "name": "Кондиціонування повітря",
+      "product_standard_name": "Кондиціонування повітря",
+      "description": "Кондиціонування повітря",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/190.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 190
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Клиновий ремінь",
+    "product_standard_name": "Клиновий ремінь",
+    "description": "Клиновий ремінь",
+    "image_url": null,
+    "parent": {
+      "id": 190,
+      "name": "Кондиціонування повітря",
+      "product_standard_name": "Кондиціонування повітря",
+      "description": "Кондиціонування повітря",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/190.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 190
+      },
+      {
+        "id": 387
+      },
+      {
+        "id": 407
+      },
+      {
+        "id": 408
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Кліпса",
+    "product_standard_name": "Кліпса",
+    "description": "Кліпса",
+    "image_url": null,
+    "parent": {
+      "id": 216,
+      "name": "Кузов",
+      "product_standard_name": "Кузов",
+      "description": "Кузов",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/216.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Колісний гальмівний циліндр",
+    "product_standard_name": "Колісний гальмівний циліндр",
+    "description": "Колісний гальмівний циліндр",
+    "image_url": null,
+    "parent": {
+      "id": 479,
+      "name": "Гальмівна система",
+      "product_standard_name": "Гальмівна система",
+      "description": "Гальмівна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/479.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Комплект важелів підвіски",
+    "product_standard_name": "Комплект важелів підвіски",
+    "description": "Комплект важелів підвіски",
+    "image_url": null,
+    "parent": {
+      "id": 300,
+      "name": "Підвіска",
+      "product_standard_name": "Підвіска",
+      "description": "Підвіска",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 300
+      },
+      {
+        "id": 409
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Комплект деталей для ТО",
+    "product_standard_name": "Комплект деталей для ТО",
+    "description": "Комплект деталей для ТО",
+    "image_url": null,
+    "parent": {
+      "id": 516,
+      "name": "Фільтри",
+      "product_standard_name": "Фільтри",
+      "description": "Фільтри",
+      "image_url": null,
+      "parent": {
+        "id": 143,
+        "name": "Запчастини для ТО",
+        "product_standard_name": "Запчастини для ТО",
+        "description": "Запчастини для ТО",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/143.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 143
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 143
+      },
+      {
+        "id": 516
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Комплект зчеплення",
+    "product_standard_name": "Комплект зчеплення",
+    "description": "Комплект зчеплення",
+    "image_url": null,
+    "parent": {
+      "id": 463,
+      "name": "Зчеплення",
+      "product_standard_name": "Зчеплення",
+      "description": "Зчеплення",
+      "image_url": null,
+      "parent": {
+        "id": 488,
+        "name": "Трансмісія",
+        "product_standard_name": "Трансмісія",
+        "description": "Трансмісія",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/488.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 143
+        },
+        {
+          "id": 488
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 449
+      },
+      {
+        "id": 463
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Комплект проводів запалювання",
+    "product_standard_name": "Комплект проводів запалювання",
+    "description": "Комплект проводів запалювання",
+    "image_url": null,
+    "parent": {
+      "id": 443,
+      "name": "Система запалювання і розжарювання",
+      "product_standard_name": "Система запалювання і розжарювання",
+      "description": "Система запалювання і розжарювання",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/443.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 136
+      },
+      {
+        "id": 443
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Комплект прокладок головки блоку циліндрів",
+    "product_standard_name": "Комплект прокладок головки блоку циліндрів",
+    "description": "Комплект прокладок головки блоку циліндрів",
+    "image_url": null,
+    "parent": {
+      "id": 350,
+      "name": "Прокладки і ущільнюючі кільця",
+      "product_standard_name": "Прокладки і ущільнюючі кільця",
+      "description": "Прокладки і ущільнюючі кільця",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/350.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 350
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Комплект ременя грм",
+    "product_standard_name": "Комплект ременя грм",
+    "description": "Комплект ременя грм",
+    "image_url": null,
+    "parent": {
+      "id": 409,
+      "name": "Ремонтні комплекти",
+      "product_standard_name": "Ремонтні комплекти",
+      "description": "Ремонтні комплекти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/409.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 387
+      },
+      {
+        "id": 407
+      },
+      {
+        "id": 408
+      },
+      {
+        "id": 409
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Комплектуючі дискових гальмівних колодок",
+    "product_standard_name": "Комплектуючі дискових гальмівних колодок",
+    "description": "Комплектуючі дискових гальмівних колодок",
+    "image_url": null,
+    "parent": {
+      "id": 409,
+      "name": "Ремонтні комплекти",
+      "product_standard_name": "Ремонтні комплекти",
+      "description": "Ремонтні комплекти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/409.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 409
+      },
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Компоненти стабілізатора",
+    "product_standard_name": "Компоненти стабілізатора",
+    "description": "Компоненти стабілізатора",
+    "image_url": null,
+    "parent": {
+      "id": 300,
+      "name": "Підвіска",
+      "product_standard_name": "Підвіска",
+      "description": "Підвіска",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 300
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Компресор кондиціонера",
+    "product_standard_name": "Компресор кондиціонера",
+    "description": "Компресор кондиціонера",
+    "image_url": null,
+    "parent": {
+      "id": 190,
+      "name": "Кондиціонування повітря",
+      "product_standard_name": "Кондиціонування повітря",
+      "description": "Кондиціонування повітря",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/190.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 190
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Конденсатор (радіатор кондиціонера)",
+    "product_standard_name": "Конденсатор (радіатор кондиціонера)",
+    "description": "Конденсатор (радіатор кондиціонера)",
+    "image_url": null,
+    "parent": {
+      "id": 190,
+      "name": "Кондиціонування повітря",
+      "product_standard_name": "Кондиціонування повітря",
+      "description": "Кондиціонування повітря",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/190.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 190
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Кондиціонування повітря",
+    "product_standard_name": "Кондиціонування повітря",
+    "description": "Кондиціонування повітря",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/190.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 192,
+    "name": "Коромисло клапана",
+    "product_standard_name": "Коромисло клапана",
+    "description": "Коромисло клапана",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Корпус дзеркала",
+    "product_standard_name": "Корпус дзеркала",
+    "description": "Корпус дзеркала",
+    "image_url": null,
+    "parent": {
+      "id": 216,
+      "name": "Кузов",
+      "product_standard_name": "Кузов",
+      "description": "Кузов",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/216.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Котушка запалювання",
+    "product_standard_name": "Котушка запалювання",
+    "description": "Котушка запалювання",
+    "image_url": null,
+    "parent": {
+      "id": 443,
+      "name": "Система запалювання і розжарювання",
+      "product_standard_name": "Система запалювання і розжарювання",
+      "description": "Система запалювання і розжарювання",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/443.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 136
+      },
+      {
+        "id": 443
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Крило",
+    "product_standard_name": "Крило",
+    "description": "Крило",
+    "image_url": null,
+    "parent": {
+      "id": 216,
+      "name": "Кузов",
+      "product_standard_name": "Кузов",
+      "description": "Кузов",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/216.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Кришка бензобака",
+    "product_standard_name": "Кришка бензобака",
+    "description": "Кришка бензобака",
+    "image_url": null,
+    "parent": {
+      "id": 447,
+      "name": "Система подачі палива",
+      "product_standard_name": "Система подачі палива",
+      "description": "Система подачі палива",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/447.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 447
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Кришка головки блоку циліндрів",
+    "product_standard_name": "Кришка головки блоку циліндрів",
+    "description": "Кришка головки блоку циліндрів",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Кришка оливозаливної горловини",
+    "product_standard_name": "Кришка оливозаливної горловини",
+    "description": "Кришка оливозаливної горловини",
+    "image_url": null,
+    "parent": {
+      "id": 448,
+      "name": "Мастильна система",
+      "product_standard_name": "Мастильна система",
+      "description": "Мастильна система",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 448
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Кришка розподільника запалювання",
+    "product_standard_name": "Кришка розподільника запалювання",
+    "description": "Кришка розподільника запалювання",
+    "image_url": null,
+    "parent": {
+      "id": 443,
+      "name": "Система запалювання і розжарювання",
+      "product_standard_name": "Система запалювання і розжарювання",
+      "description": "Система запалювання і розжарювання",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/443.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 443
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Кронштейн бампера",
+    "product_standard_name": "Кронштейн бампера",
+    "description": "Кронштейн бампера",
+    "image_url": null,
+    "parent": {
+      "id": 15,
+      "name": "Бампер",
+      "product_standard_name": "Бампер",
+      "description": "Бампер",
+      "image_url": null,
+      "parent": {
+        "id": 271,
+        "name": "Оздоблення кузова",
+        "product_standard_name": "Оздоблення кузова",
+        "description": "Оздоблення кузова",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/271.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 216
+        },
+        {
+          "id": 271
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Кріплення стабілізатора",
+    "product_standard_name": "Кріплення стабілізатора",
+    "description": "Кріплення стабілізатора",
+    "image_url": null,
+    "parent": {
+      "id": 186,
+      "name": "Компоненти стабілізатора",
+      "product_standard_name": "Компоненти стабілізатора",
+      "description": "Компоненти стабілізатора",
+      "image_url": null,
+      "parent": {
+        "id": 300,
+        "name": "Підвіска",
+        "product_standard_name": "Підвіска",
+        "description": "Підвіска",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 300
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 186
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "name": "Кузов",
+    "product_standard_name": "Кузов",
+    "description": "Кузов",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/216.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 526,
+    "name": "Кульова опора",
+    "product_standard_name": "Кульова опора",
+    "description": "Кульова опора",
+    "image_url": null,
+    "parent": {
+      "id": 254,
+      "name": "Несучі елементи",
+      "product_standard_name": "Несучі елементи",
+      "description": "Несучі елементи",
+      "image_url": null,
+      "parent": {
+        "id": 300,
+        "name": "Підвіска",
+        "product_standard_name": "Підвіска",
+        "description": "Підвіска",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 300
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 254
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Кільце abs",
+    "product_standard_name": "Кільце abs",
+    "description": "Кільце abs",
+    "image_url": null,
+    "parent": {
+      "id": 326,
+      "name": "Привід колеса",
+      "product_standard_name": "Привід колеса",
+      "description": "Привід колеса",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/326.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 326
+      },
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Кільця поршневі",
+    "product_standard_name": "Кільця поршневі",
+    "description": "Кільця поршневі",
+    "image_url": null,
+    "parent": {
+      "id": 26,
+      "name": "Блок циліндрів",
+      "product_standard_name": "Блок циліндрів",
+      "description": "Блок циліндрів",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 26
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Лампа",
+    "product_standard_name": "Лампа",
+    "description": "Лампа",
+    "image_url": null,
+    "parent": {
+      "id": 261,
+      "name": "Освітлення",
+      "product_standard_name": "Освітлення",
+      "description": "Освітлення",
+      "image_url": null,
+      "parent": {
+        "id": 550,
+        "name": "Електричні компоненти",
+        "product_standard_name": "Електричні компоненти",
+        "description": "Електричні компоненти",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 143
+        },
+        {
+          "id": 550
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 261
+      }
+    ]
+  },
+  {
+    "id": 524,
+    "name": "Ланцюг грм",
+    "product_standard_name": "Ланцюг грм",
+    "description": "Ланцюг грм",
+    "image_url": null,
+    "parent": {
+      "id": 387,
+      "name": "Ремінний і ланцюговий привід",
+      "product_standard_name": "Ремінний і ланцюговий привід",
+      "description": "Ремінний і ланцюговий привід",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 387
+      },
+      {
+        "id": 408
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Лобове скло",
+    "product_standard_name": "Лобове скло",
+    "description": "Лобове скло",
+    "image_url": null,
+    "parent": {
+      "id": 266,
+      "name": "Скління",
+      "product_standard_name": "Скління",
+      "description": "Скління",
+      "image_url": null,
+      "parent": {
+        "id": 216,
+        "name": "Кузов",
+        "product_standard_name": "Кузов",
+        "description": "Кузов",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/216.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 216
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 266
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Лямбда-зонд",
+    "product_standard_name": "Лямбда-зонд",
+    "description": "Лямбда-зонд",
+    "image_url": null,
+    "parent": {
+      "id": 65,
+      "name": "Вихлопна система",
+      "product_standard_name": "Вихлопна система",
+      "description": "Вихлопна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/65.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 65
+      },
+      {
+        "id": 100
+      },
+      {
+        "id": 101
+      }
+    ]
+  },
+  {
+    "id": 448,
+    "name": "Мастильна система",
+    "product_standard_name": "Мастильна система",
+    "description": "Мастильна система",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 461,
+    "name": "Маточина колеса",
+    "product_standard_name": "Маточина колеса",
+    "description": "Маточина колеса",
+    "image_url": null,
+    "parent": {
+      "id": 326,
+      "name": "Привід колеса",
+      "product_standard_name": "Привід колеса",
+      "description": "Привід колеса",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/326.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 326
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Маховик",
+    "product_standard_name": "Маховик",
+    "description": "Маховик",
+    "image_url": null,
+    "parent": {
+      "id": 488,
+      "name": "Трансмісія",
+      "product_standard_name": "Трансмісія",
+      "description": "Трансмісія",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/488.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 449
+      },
+      {
+        "id": 488
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Механізми управління",
+    "product_standard_name": "Механізми управління",
+    "description": "Механізми управління",
+    "image_url": null,
+    "parent": {
+      "id": 153,
+      "name": "Інтер'єр і комфорт",
+      "product_standard_name": "Інтер'єр і комфорт",
+      "description": "Інтер'єр і комфорт",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/153.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 153
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Модуль запалювання",
+    "product_standard_name": "Модуль запалювання",
+    "description": "Модуль запалювання",
+    "image_url": null,
+    "parent": {
+      "id": 443,
+      "name": "Система запалювання і розжарювання",
+      "product_standard_name": "Система запалювання і розжарювання",
+      "description": "Система запалювання і розжарювання",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/443.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 136
+      },
+      {
+        "id": 443
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Моторна олива",
+    "product_standard_name": "Моторна олива",
+    "description": "Моторна олива",
+    "image_url": null,
+    "parent": {
+      "id": 226,
+      "name": "Оливи і рідини",
+      "product_standard_name": "Оливи і рідини",
+      "description": "Оливи і рідини",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/226.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 226
+      },
+      {
+        "id": 448
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Накладки бампера",
+    "product_standard_name": "Накладки бампера",
+    "description": "Накладки бампера",
+    "image_url": null,
+    "parent": {
+      "id": 15,
+      "name": "Бампер",
+      "product_standard_name": "Бампер",
+      "description": "Бампер",
+      "image_url": null,
+      "parent": {
+        "id": 271,
+        "name": "Оздоблення кузова",
+        "product_standard_name": "Оздоблення кузова",
+        "description": "Оздоблення кузова",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/271.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 216
+        },
+        {
+          "id": 271
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Накінечник рульової тяги",
+    "product_standard_name": "Накінечник рульової тяги",
+    "description": "Накінечник рульової тяги",
+    "image_url": null,
+    "parent": {
+      "id": 418,
+      "name": "Рульове управління",
+      "product_standard_name": "Рульове управління",
+      "description": "Рульове управління",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/418.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 300
+      },
+      {
+        "id": 418
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Направляюча гільза зчеплення",
+    "product_standard_name": "Направляюча гільза зчеплення",
+    "description": "Направляюча гільза зчеплення",
+    "image_url": null,
+    "parent": {
+      "id": 449,
+      "name": "Система зчеплення",
+      "product_standard_name": "Система зчеплення",
+      "description": "Система зчеплення",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/449.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 449
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "name": "Насос гідропідсилювача керма",
+    "product_standard_name": "Насос гідропідсилювача керма",
+    "description": "Насос гідропідсилювача керма",
+    "image_url": null,
+    "parent": {
+      "id": 418,
+      "name": "Рульове управління",
+      "product_standard_name": "Рульове управління",
+      "description": "Рульове управління",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/418.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 418
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Насос омивача вітрового скла",
+    "product_standard_name": "Насос омивача вітрового скла",
+    "description": "Насос омивача вітрового скла",
+    "image_url": null,
+    "parent": {
+      "id": 446,
+      "name": "Система очищення скла і фар",
+      "product_standard_name": "Система очищення скла і фар",
+      "description": "Система очищення скла і фар",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/446.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 446
+      },
+      {
+        "id": 458
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Насос системи охолодження двигуна",
+    "product_standard_name": "Насос системи охолодження двигуна",
+    "description": "Насос системи охолодження двигуна",
+    "image_url": null,
+    "parent": {
+      "id": 445,
+      "name": "Система охолодження двигуна",
+      "product_standard_name": "Система охолодження двигуна",
+      "description": "Система охолодження двигуна",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/445.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 444
+      },
+      {
+        "id": 445
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "name": "Натискний диск зчеплення",
+    "product_standard_name": "Натискний диск зчеплення",
+    "description": "Натискний диск зчеплення",
+    "image_url": null,
+    "parent": {
+      "id": 463,
+      "name": "Зчеплення",
+      "product_standard_name": "Зчеплення",
+      "description": "Зчеплення",
+      "image_url": null,
+      "parent": {
+        "id": 488,
+        "name": "Трансмісія",
+        "product_standard_name": "Трансмісія",
+        "description": "Трансмісія",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/488.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 143
+        },
+        {
+          "id": 488
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 449
+      },
+      {
+        "id": 463
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Натяжний ролик",
+    "product_standard_name": "Натяжний ролик",
+    "description": "Натяжний ролик",
+    "image_url": null,
+    "parent": {
+      "id": 387,
+      "name": "Ремінний і ланцюговий привід",
+      "product_standard_name": "Ремінний і ланцюговий привід",
+      "description": "Ремінний і ланцюговий привід",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 387
+      },
+      {
+        "id": 408
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Несучі елементи",
+    "product_standard_name": "Несучі елементи",
+    "description": "Несучі елементи",
+    "image_url": null,
+    "parent": {
+      "id": 300,
+      "name": "Підвіска",
+      "product_standard_name": "Підвіска",
+      "description": "Підвіска",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 300
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Оздоблення кузова",
+    "product_standard_name": "Оздоблення кузова",
+    "description": "Оздоблення кузова",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/271.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 227,
+    "name": "Олива гідропідсилювача",
+    "product_standard_name": "Олива гідропідсилювача",
+    "description": "Олива гідропідсилювача",
+    "image_url": null,
+    "parent": {
+      "id": 226,
+      "name": "Оливи і рідини",
+      "product_standard_name": "Оливи і рідини",
+      "description": "Оливи і рідини",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/226.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 226
+      },
+      {
+        "id": 418
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "name": "Оливи і рідини",
+    "product_standard_name": "Оливи і рідини",
+    "description": "Оливи і рідини",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/226.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 230,
+    "name": "Оливний насос",
+    "product_standard_name": "Оливний насос",
+    "description": "Оливний насос",
+    "image_url": null,
+    "parent": {
+      "id": 448,
+      "name": "Мастильна система",
+      "product_standard_name": "Мастильна система",
+      "description": "Мастильна система",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 448
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "name": "Оливний радіатор",
+    "product_standard_name": "Оливний радіатор",
+    "description": "Оливний радіатор",
+    "image_url": null,
+    "parent": {
+      "id": 448,
+      "name": "Мастильна система",
+      "product_standard_name": "Мастильна система",
+      "description": "Мастильна система",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 448
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Опора амортизатора",
+    "product_standard_name": "Опора амортизатора",
+    "description": "Опора амортизатора",
+    "image_url": null,
+    "parent": {
+      "id": 300,
+      "name": "Підвіска",
+      "product_standard_name": "Підвіска",
+      "description": "Підвіска",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 300
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Освітлення",
+    "product_standard_name": "Освітлення",
+    "description": "Освітлення",
+    "image_url": null,
+    "parent": {
+      "id": 550,
+      "name": "Електричні компоненти",
+      "product_standard_name": "Електричні компоненти",
+      "description": "Електричні компоненти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 143
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Основна фара",
+    "product_standard_name": "Основна фара",
+    "description": "Основна фара",
+    "image_url": null,
+    "parent": {
+      "id": 261,
+      "name": "Освітлення",
+      "product_standard_name": "Освітлення",
+      "description": "Освітлення",
+      "image_url": null,
+      "parent": {
+        "id": 550,
+        "name": "Електричні компоненти",
+        "product_standard_name": "Електричні компоненти",
+        "description": "Електричні компоненти",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 143
+        },
+        {
+          "id": 550
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 261
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Осушувач кондиціонера",
+    "product_standard_name": "Осушувач кондиціонера",
+    "description": "Осушувач кондиціонера",
+    "image_url": null,
+    "parent": {
+      "id": 190,
+      "name": "Кондиціонування повітря",
+      "product_standard_name": "Кондиціонування повітря",
+      "description": "Кондиціонування повітря",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/190.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 190
+      },
+      {
+        "id": 516
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "name": "Охолоджуюча рідина",
+    "product_standard_name": "Охолоджуюча рідина",
+    "description": "Охолоджуюча рідина",
+    "image_url": null,
+    "parent": {
+      "id": 226,
+      "name": "Оливи і рідини",
+      "product_standard_name": "Оливи і рідини",
+      "description": "Оливи і рідини",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/226.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 226
+      },
+      {
+        "id": 444
+      },
+      {
+        "id": 445
+      }
+    ]
+  },
+  {
+    "id": 469,
+    "name": "ПНВТ",
+    "product_standard_name": "ПНВТ",
+    "description": "ПНВТ",
+    "image_url": null,
+    "parent": {
+      "id": 442,
+      "name": "Система вприскування",
+      "product_standard_name": "Система вприскування",
+      "description": "Система вприскування",
+      "image_url": null,
+      "parent": {
+        "id": 447,
+        "name": "Система подачі палива",
+        "product_standard_name": "Система подачі палива",
+        "description": "Система подачі палива",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/447.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 447
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 442
+      }
+    ]
+  },
+  {
+    "id": 472,
+    "name": "Паливний бак",
+    "product_standard_name": "Паливний бак",
+    "description": "Паливний бак",
+    "image_url": null,
+    "parent": {
+      "id": 447,
+      "name": "Система подачі палива",
+      "product_standard_name": "Система подачі палива",
+      "description": "Система подачі палива",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/447.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      },
+      {
+        "id": 447
+      }
+    ]
+  },
+  {
+    "id": 475,
+    "name": "Паливний фільтр",
+    "product_standard_name": "Паливний фільтр",
+    "description": "Паливний фільтр",
+    "image_url": null,
+    "parent": {
+      "id": 447,
+      "name": "Система подачі палива",
+      "product_standard_name": "Система подачі палива",
+      "description": "Система подачі палива",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/447.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 447
+      },
+      {
+        "id": 516
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Панель дверей",
+    "product_standard_name": "Панель дверей",
+    "description": "Панель дверей",
+    "image_url": null,
+    "parent": {
+      "id": 216,
+      "name": "Кузов",
+      "product_standard_name": "Кузов",
+      "description": "Кузов",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/216.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "name": "Панель радіатора",
+    "product_standard_name": "Панель радіатора",
+    "description": "Панель радіатора",
+    "image_url": null,
+    "parent": {
+      "id": 216,
+      "name": "Кузов",
+      "product_standard_name": "Кузов",
+      "description": "Кузов",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/216.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "name": "Патрубок гідропідсилювача",
+    "product_standard_name": "Патрубок гідропідсилювача",
+    "description": "Патрубок гідропідсилювача",
+    "image_url": null,
+    "parent": {
+      "id": 495,
+      "name": "Труби і шланги",
+      "product_standard_name": "Труби і шланги",
+      "description": "Труби і шланги",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/495.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 418
+      },
+      {
+        "id": 495
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "name": "Патрубок радіатора",
+    "product_standard_name": "Патрубок радіатора",
+    "description": "Патрубок радіатора",
+    "image_url": null,
+    "parent": {
+      "id": 495,
+      "name": "Труби і шланги",
+      "product_standard_name": "Труби і шланги",
+      "description": "Труби і шланги",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/495.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 445
+      },
+      {
+        "id": 495
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "name": "Патрубок турбокомпресора",
+    "product_standard_name": "Патрубок турбокомпресора",
+    "description": "Патрубок турбокомпресора",
+    "image_url": null,
+    "parent": {
+      "id": 65,
+      "name": "Вихлопна система",
+      "product_standard_name": "Вихлопна система",
+      "description": "Вихлопна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/65.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 65
+      },
+      {
+        "id": 299
+      },
+      {
+        "id": 495
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "name": "Передня пружина",
+    "product_standard_name": "Передня пружина",
+    "description": "Передня пружина",
+    "image_url": null,
+    "parent": {
+      "id": 353,
+      "name": "Пружини",
+      "product_standard_name": "Пружини",
+      "description": "Пружини",
+      "image_url": null,
+      "parent": {
+        "id": 300,
+        "name": "Підвіска",
+        "product_standard_name": "Підвіска",
+        "description": "Підвіска",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 300
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 353
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "name": "Передні амортизатори",
+    "product_standard_name": "Передні амортизатори",
+    "description": "Передні амортизатори",
+    "image_url": null,
+    "parent": {
+      "id": 11,
+      "name": "Амортизатори",
+      "product_standard_name": "Амортизатори",
+      "description": "Амортизатори",
+      "image_url": null,
+      "parent": {
+        "id": 300,
+        "name": "Підвіска",
+        "product_standard_name": "Підвіска",
+        "description": "Підвіска",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 143
+        },
+        {
+          "id": 300
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 11
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "name": "Передній бампер",
+    "product_standard_name": "Передній бампер",
+    "description": "Передній бампер",
+    "image_url": null,
+    "parent": {
+      "id": 15,
+      "name": "Бампер",
+      "product_standard_name": "Бампер",
+      "description": "Бампер",
+      "image_url": null,
+      "parent": {
+        "id": 271,
+        "name": "Оздоблення кузова",
+        "product_standard_name": "Оздоблення кузова",
+        "description": "Оздоблення кузова",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/271.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 216
+        },
+        {
+          "id": 271
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "name": "Передній гальмівний диск",
+    "product_standard_name": "Передній гальмівний диск",
+    "description": "Передній гальмівний диск",
+    "image_url": null,
+    "parent": {
+      "id": 482,
+      "name": "Гальмівний диск",
+      "product_standard_name": "Гальмівний диск",
+      "description": "Гальмівний диск",
+      "image_url": null,
+      "parent": {
+        "id": 479,
+        "name": "Гальмівна система",
+        "product_standard_name": "Гальмівна система",
+        "description": "Гальмівна система",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/479.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 479
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 477
+      },
+      {
+        "id": 482
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "name": "Петля дверей",
+    "product_standard_name": "Петля дверей",
+    "description": "Петля дверей",
+    "image_url": null,
+    "parent": {
+      "id": 216,
+      "name": "Кузов",
+      "product_standard_name": "Кузов",
+      "description": "Кузов",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/216.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "name": "Пильник рульової тяги",
+    "product_standard_name": "Пильник рульової тяги",
+    "description": "Пильник рульової тяги",
+    "image_url": null,
+    "parent": {
+      "id": 418,
+      "name": "Рульове управління",
+      "product_standard_name": "Рульове управління",
+      "description": "Рульове управління",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/418.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 418
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "name": "Пильник шруса",
+    "product_standard_name": "Пильник шруса",
+    "description": "Пильник шруса",
+    "image_url": null,
+    "parent": {
+      "id": 488,
+      "name": "Трансмісія",
+      "product_standard_name": "Трансмісія",
+      "description": "Трансмісія",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/488.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 326
+      },
+      {
+        "id": 488
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "name": "Плавкі запобіжники",
+    "product_standard_name": "Плавкі запобіжники",
+    "description": "Плавкі запобіжники",
+    "image_url": null,
+    "parent": {
+      "id": 550,
+      "name": "Електричні компоненти",
+      "product_standard_name": "Електричні компоненти",
+      "description": "Електричні компоненти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "name": "Повний набір прокладок двигуна",
+    "product_standard_name": "Повний набір прокладок двигуна",
+    "description": "Повний набір прокладок двигуна",
+    "image_url": null,
+    "parent": {
+      "id": 350,
+      "name": "Прокладки і ущільнюючі кільця",
+      "product_standard_name": "Прокладки і ущільнюючі кільця",
+      "description": "Прокладки і ущільнюючі кільця",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/350.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 350
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Повітропровід",
+    "product_standard_name": "Повітропровід",
+    "description": "Повітропровід",
+    "image_url": null,
+    "parent": {
+      "id": 190,
+      "name": "Кондиціонування повітря",
+      "product_standard_name": "Кондиціонування повітря",
+      "description": "Кондиціонування повітря",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/190.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 190
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Повітряний фільтр",
+    "product_standard_name": "Повітряний фільтр",
+    "description": "Повітряний фільтр",
+    "image_url": null,
+    "parent": {
+      "id": 299,
+      "name": "Подача повітря",
+      "product_standard_name": "Подача повітря",
+      "description": "Подача повітря",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 299
+      },
+      {
+        "id": 516
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "name": "Подача повітря",
+    "product_standard_name": "Подача повітря",
+    "description": "Подача повітря",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 498,
+    "name": "Покажчик повороту",
+    "product_standard_name": "Покажчик повороту",
+    "description": "Покажчик повороту",
+    "image_url": null,
+    "parent": {
+      "id": 261,
+      "name": "Освітлення",
+      "product_standard_name": "Освітлення",
+      "description": "Освітлення",
+      "image_url": null,
+      "parent": {
+        "id": 550,
+        "name": "Електричні компоненти",
+        "product_standard_name": "Електричні компоненти",
+        "description": "Електричні компоненти",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 143
+        },
+        {
+          "id": 550
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 216
+      },
+      {
+        "id": 261
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Поліклиновий ремінь",
+    "product_standard_name": "Поліклиновий ремінь",
+    "description": "Поліклиновий ремінь",
+    "image_url": null,
+    "parent": {
+      "id": 387,
+      "name": "Ремінний і ланцюговий привід",
+      "product_standard_name": "Ремінний і ланцюговий привід",
+      "description": "Ремінний і ланцюговий привід",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 387
+      },
+      {
+        "id": 408
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "name": "Поперечна рульова тяга",
+    "product_standard_name": "Поперечна рульова тяга",
+    "description": "Поперечна рульова тяга",
+    "image_url": null,
+    "parent": {
+      "id": 418,
+      "name": "Рульове управління",
+      "product_standard_name": "Рульове управління",
+      "description": "Рульове управління",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/418.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 300
+      },
+      {
+        "id": 418
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "name": "Поршень",
+    "product_standard_name": "Поршень",
+    "description": "Поршень",
+    "image_url": null,
+    "parent": {
+      "id": 26,
+      "name": "Блок циліндрів",
+      "product_standard_name": "Блок циліндрів",
+      "description": "Блок циліндрів",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 26
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "name": "Поршень гальмівного супорта",
+    "product_standard_name": "Поршень гальмівного супорта",
+    "description": "Поршень гальмівного супорта",
+    "image_url": null,
+    "parent": {
+      "id": 479,
+      "name": "Гальмівна система",
+      "product_standard_name": "Гальмівна система",
+      "description": "Гальмівна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/479.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "name": "Привід колеса",
+    "product_standard_name": "Привід колеса",
+    "description": "Привід колеса",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/326.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 327,
+    "name": "Привідний вал",
+    "product_standard_name": "Привідний вал",
+    "description": "Привідний вал",
+    "image_url": null,
+    "parent": {
+      "id": 326,
+      "name": "Привід колеса",
+      "product_standard_name": "Привід колеса",
+      "description": "Привід колеса",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/326.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 326
+      },
+      {
+        "id": 488
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Провід запалювання",
+    "product_standard_name": "Провід запалювання",
+    "description": "Провід запалювання",
+    "image_url": null,
+    "parent": {
+      "id": 443,
+      "name": "Система запалювання і розжарювання",
+      "product_standard_name": "Система запалювання і розжарювання",
+      "description": "Система запалювання і розжарювання",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/443.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 136
+      },
+      {
+        "id": 443
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "name": "Прокладка випускного колектора",
+    "product_standard_name": "Прокладка випускного колектора",
+    "description": "Прокладка випускного колектора",
+    "image_url": null,
+    "parent": {
+      "id": 65,
+      "name": "Вихлопна система",
+      "product_standard_name": "Вихлопна система",
+      "description": "Вихлопна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/65.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 65
+      },
+      {
+        "id": 104
+      },
+      {
+        "id": 350
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "name": "Прокладка випускного трубопроводу",
+    "product_standard_name": "Прокладка випускного трубопроводу",
+    "description": "Прокладка випускного трубопроводу",
+    "image_url": null,
+    "parent": {
+      "id": 350,
+      "name": "Прокладки і ущільнюючі кільця",
+      "product_standard_name": "Прокладки і ущільнюючі кільця",
+      "description": "Прокладки і ущільнюючі кільця",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/350.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 65
+      },
+      {
+        "id": 350
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Прокладка водяного насоса",
+    "product_standard_name": "Прокладка водяного насоса",
+    "description": "Прокладка водяного насоса",
+    "image_url": null,
+    "parent": {
+      "id": 350,
+      "name": "Прокладки і ущільнюючі кільця",
+      "product_standard_name": "Прокладки і ущільнюючі кільця",
+      "description": "Прокладки і ущільнюючі кільця",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/350.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 350
+      },
+      {
+        "id": 445
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "name": "Прокладка впускного колектора",
+    "product_standard_name": "Прокладка впускного колектора",
+    "description": "Прокладка впускного колектора",
+    "image_url": null,
+    "parent": {
+      "id": 350,
+      "name": "Прокладки і ущільнюючі кільця",
+      "product_standard_name": "Прокладки і ущільнюючі кільця",
+      "description": "Прокладки і ущільнюючі кільця",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/350.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 350
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "name": "Прокладка головки блоку циліндрів",
+    "product_standard_name": "Прокладка головки блоку циліндрів",
+    "description": "Прокладка головки блоку циліндрів",
+    "image_url": null,
+    "parent": {
+      "id": 350,
+      "name": "Прокладки і ущільнюючі кільця",
+      "product_standard_name": "Прокладки і ущільнюючі кільця",
+      "description": "Прокладки і ущільнюючі кільця",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/350.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 350
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "name": "Прокладка клапана egr",
+    "product_standard_name": "Прокладка клапана egr",
+    "description": "Прокладка клапана egr",
+    "image_url": null,
+    "parent": {
+      "id": 65,
+      "name": "Вихлопна система",
+      "product_standard_name": "Вихлопна система",
+      "description": "Вихлопна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/65.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 65
+      },
+      {
+        "id": 104
+      },
+      {
+        "id": 350
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "name": "Прокладка клапанної кришки",
+    "product_standard_name": "Прокладка клапанної кришки",
+    "description": "Прокладка клапанної кришки",
+    "image_url": null,
+    "parent": {
+      "id": 350,
+      "name": "Прокладки і ущільнюючі кільця",
+      "product_standard_name": "Прокладки і ущільнюючі кільця",
+      "description": "Прокладки і ущільнюючі кільця",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/350.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 350
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "name": "Прокладка коробки передач",
+    "product_standard_name": "Прокладка коробки передач",
+    "description": "Прокладка коробки передач",
+    "image_url": null,
+    "parent": {
+      "id": 488,
+      "name": "Трансмісія",
+      "product_standard_name": "Трансмісія",
+      "description": "Трансмісія",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/488.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 488
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "name": "Прокладка оливного насоса",
+    "product_standard_name": "Прокладка оливного насоса",
+    "description": "Прокладка оливного насоса",
+    "image_url": null,
+    "parent": {
+      "id": 350,
+      "name": "Прокладки і ущільнюючі кільця",
+      "product_standard_name": "Прокладки і ущільнюючі кільця",
+      "description": "Прокладки і ущільнюючі кільця",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/350.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 350
+      },
+      {
+        "id": 448
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "name": "Прокладка оливного піддона",
+    "product_standard_name": "Прокладка оливного піддона",
+    "description": "Прокладка оливного піддона",
+    "image_url": null,
+    "parent": {
+      "id": 350,
+      "name": "Прокладки і ущільнюючі кільця",
+      "product_standard_name": "Прокладки і ущільнюючі кільця",
+      "description": "Прокладки і ущільнюючі кільця",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/350.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 350
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "name": "Прокладка оливного радіатора",
+    "product_standard_name": "Прокладка оливного радіатора",
+    "description": "Прокладка оливного радіатора",
+    "image_url": null,
+    "parent": {
+      "id": 448,
+      "name": "Мастильна система",
+      "product_standard_name": "Мастильна система",
+      "description": "Мастильна система",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 350
+      },
+      {
+        "id": 448
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "name": "Прокладка турбокомпресора",
+    "product_standard_name": "Прокладка турбокомпресора",
+    "description": "Прокладка турбокомпресора",
+    "image_url": null,
+    "parent": {
+      "id": 65,
+      "name": "Вихлопна система",
+      "product_standard_name": "Вихлопна система",
+      "description": "Вихлопна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/65.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 65
+      },
+      {
+        "id": 299
+      },
+      {
+        "id": 350
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "name": "Прокладка форсунки",
+    "product_standard_name": "Прокладка форсунки",
+    "description": "Прокладка форсунки",
+    "image_url": null,
+    "parent": {
+      "id": 350,
+      "name": "Прокладки і ущільнюючі кільця",
+      "product_standard_name": "Прокладки і ущільнюючі кільця",
+      "description": "Прокладки і ущільнюючі кільця",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/350.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 350
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Прокладки і ущільнюючі кільця",
+    "product_standard_name": "Прокладки і ущільнюючі кільця",
+    "description": "Прокладки і ущільнюючі кільця",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/350.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 351,
+    "name": "Протитуманна фара",
+    "product_standard_name": "Протитуманна фара",
+    "description": "Протитуманна фара",
+    "image_url": null,
+    "parent": {
+      "id": 261,
+      "name": "Освітлення",
+      "product_standard_name": "Освітлення",
+      "description": "Освітлення",
+      "image_url": null,
+      "parent": {
+        "id": 550,
+        "name": "Електричні компоненти",
+        "product_standard_name": "Електричні компоненти",
+        "description": "Електричні компоненти",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 143
+        },
+        {
+          "id": 550
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 261
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "name": "Пружини",
+    "product_standard_name": "Пружини",
+    "description": "Пружини",
+    "image_url": null,
+    "parent": {
+      "id": 300,
+      "name": "Підвіска",
+      "product_standard_name": "Підвіска",
+      "description": "Підвіска",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 300
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Підвіска",
+    "product_standard_name": "Підвіска",
+    "description": "Підвіска",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 301,
+    "name": "Підвіска двигуна",
+    "product_standard_name": "Підвіска двигуна",
+    "description": "Підвіска двигуна",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Піддон оливний",
+    "product_standard_name": "Піддон оливний",
+    "description": "Піддон оливний",
+    "image_url": null,
+    "parent": {
+      "id": 448,
+      "name": "Мастильна система",
+      "product_standard_name": "Мастильна система",
+      "description": "Мастильна система",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 448
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Підкрилок",
+    "product_standard_name": "Підкрилок",
+    "description": "Підкрилок",
+    "image_url": null,
+    "parent": {
+      "id": 271,
+      "name": "Оздоблення кузова",
+      "product_standard_name": "Оздоблення кузова",
+      "description": "Оздоблення кузова",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/271.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      },
+      {
+        "id": 271
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Підрульовий перемикач",
+    "product_standard_name": "Підрульовий перемикач",
+    "description": "Підрульовий перемикач",
+    "image_url": null,
+    "parent": {
+      "id": 418,
+      "name": "Рульове управління",
+      "product_standard_name": "Рульове управління",
+      "description": "Рульове управління",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/418.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 153
+      },
+      {
+        "id": 418
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Підшипник колінвала (вкладиші корінні)",
+    "product_standard_name": "Підшипник колінвала (вкладиші корінні)",
+    "description": "Підшипник колінвала (вкладиші корінні)",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Підшипник кпп",
+    "product_standard_name": "Підшипник кпп",
+    "description": "Підшипник кпп",
+    "image_url": null,
+    "parent": {
+      "id": 488,
+      "name": "Трансмісія",
+      "product_standard_name": "Трансмісія",
+      "description": "Трансмісія",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/488.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 488
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Підшипник ступиці колеса",
+    "product_standard_name": "Підшипник ступиці колеса",
+    "description": "Підшипник ступиці колеса",
+    "image_url": null,
+    "parent": {
+      "id": 326,
+      "name": "Привід колеса",
+      "product_standard_name": "Привід колеса",
+      "description": "Привід колеса",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/326.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 326
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "name": "Радіатор",
+    "product_standard_name": "Радіатор",
+    "description": "Радіатор",
+    "image_url": null,
+    "parent": {
+      "id": 444,
+      "name": "Система охолодження",
+      "product_standard_name": "Система охолодження",
+      "description": "Система охолодження",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 444
+      },
+      {
+        "id": 445
+      }
+    ]
+  },
+  {
+    "id": 364,
+    "name": "Радіатор обігрівача",
+    "product_standard_name": "Радіатор обігрівача",
+    "description": "Радіатор обігрівача",
+    "image_url": null,
+    "parent": {
+      "id": 190,
+      "name": "Кондиціонування повітря",
+      "product_standard_name": "Кондиціонування повітря",
+      "description": "Кондиціонування повітря",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/190.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 190
+      }
+    ]
+  },
+  {
+    "id": 377,
+    "name": "Регулятор вікон",
+    "product_standard_name": "Регулятор вікон",
+    "description": "Регулятор вікон",
+    "image_url": null,
+    "parent": {
+      "id": 235,
+      "name": "Механізми управління",
+      "product_standard_name": "Механізми управління",
+      "description": "Механізми управління",
+      "image_url": null,
+      "parent": {
+        "id": 153,
+        "name": "Інтер'єр і комфорт",
+        "product_standard_name": "Інтер'єр і комфорт",
+        "description": "Інтер'єр і комфорт",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/153.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 153
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 235
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "name": "Регулятор генератора",
+    "product_standard_name": "Регулятор генератора",
+    "description": "Регулятор генератора",
+    "image_url": null,
+    "parent": {
+      "id": 550,
+      "name": "Електричні компоненти",
+      "product_standard_name": "Електричні компоненти",
+      "description": "Електричні компоненти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 376,
+    "name": "Регулятор тиску палива",
+    "product_standard_name": "Регулятор тиску палива",
+    "description": "Регулятор тиску палива",
+    "image_url": null,
+    "parent": {
+      "id": 447,
+      "name": "Система подачі палива",
+      "product_standard_name": "Система подачі палива",
+      "description": "Система подачі палива",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/447.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 101
+      },
+      {
+        "id": 447
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "name": "Резистор вентилятора обігрівача",
+    "product_standard_name": "Резистор вентилятора обігрівача",
+    "description": "Резистор вентилятора обігрівача",
+    "image_url": null,
+    "parent": {
+      "id": 190,
+      "name": "Кондиціонування повітря",
+      "product_standard_name": "Кондиціонування повітря",
+      "description": "Кондиціонування повітря",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/190.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 101
+      },
+      {
+        "id": 190
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "name": "Ремені",
+    "product_standard_name": "Ремені",
+    "description": "Ремені",
+    "image_url": null,
+    "parent": {
+      "id": 143,
+      "name": "Запчастини для ТО",
+      "product_standard_name": "Запчастини для ТО",
+      "description": "Запчастини для ТО",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/143.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 143
+      }
+    ]
+  },
+  {
+    "id": 408,
+    "name": "Ремені ланцюги та ролики",
+    "product_standard_name": "Ремені ланцюги та ролики",
+    "description": "Ремені ланцюги та ролики",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/408.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 403,
+    "name": "Ремкомплект гальмівного супорта",
+    "product_standard_name": "Ремкомплект гальмівного супорта",
+    "description": "Ремкомплект гальмівного супорта",
+    "image_url": null,
+    "parent": {
+      "id": 409,
+      "name": "Ремонтні комплекти",
+      "product_standard_name": "Ремонтні комплекти",
+      "description": "Ремонтні комплекти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/409.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 409
+      },
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Ремкомплект гальмівного циліндру",
+    "product_standard_name": "Ремкомплект гальмівного циліндру",
+    "description": "Ремкомплект гальмівного циліндру",
+    "image_url": null,
+    "parent": {
+      "id": 477,
+      "name": "Гальма",
+      "product_standard_name": "Гальма",
+      "description": "Гальма",
+      "image_url": null,
+      "parent": {
+        "id": 143,
+        "name": "Запчастини для ТО",
+        "product_standard_name": "Запчастини для ТО",
+        "description": "Запчастини для ТО",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/143.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 143
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 409
+      },
+      {
+        "id": 477
+      },
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "name": "Ремкомплект колісного гальмівного циліндра",
+    "product_standard_name": "Ремкомплект колісного гальмівного циліндра",
+    "description": "Ремкомплект колісного гальмівного циліндра",
+    "image_url": null,
+    "parent": {
+      "id": 409,
+      "name": "Ремонтні комплекти",
+      "product_standard_name": "Ремонтні комплекти",
+      "description": "Ремонтні комплекти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/409.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 409
+      },
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Ремкомплект циліндра зчеплення",
+    "product_standard_name": "Ремкомплект циліндра зчеплення",
+    "description": "Ремкомплект циліндра зчеплення",
+    "image_url": null,
+    "parent": {
+      "id": 409,
+      "name": "Ремонтні комплекти",
+      "product_standard_name": "Ремонтні комплекти",
+      "description": "Ремонтні комплекти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/409.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 409
+      },
+      {
+        "id": 449
+      }
+    ]
+  },
+  {
+    "id": 409,
+    "name": "Ремонтні комплекти",
+    "product_standard_name": "Ремонтні комплекти",
+    "description": "Ремонтні комплекти",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/409.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 387,
+    "name": "Ремінний і ланцюговий привід",
+    "product_standard_name": "Ремінний і ланцюговий привід",
+    "description": "Ремінний і ланцюговий привід",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "name": "Ремінь грм",
+    "product_standard_name": "Ремінь грм",
+    "description": "Ремінь грм",
+    "image_url": null,
+    "parent": {
+      "id": 387,
+      "name": "Ремінний і ланцюговий привід",
+      "product_standard_name": "Ремінний і ланцюговий привід",
+      "description": "Ремінний і ланцюговий привід",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 387
+      },
+      {
+        "id": 407
+      },
+      {
+        "id": 408
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "name": "Рефлектор (катафот)",
+    "product_standard_name": "Рефлектор (катафот)",
+    "description": "Рефлектор (катафот)",
+    "image_url": null,
+    "parent": {
+      "id": 550,
+      "name": "Електричні компоненти",
+      "product_standard_name": "Електричні компоненти",
+      "description": "Електричні компоненти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 412,
+    "name": "Решітка бампера",
+    "product_standard_name": "Решітка бампера",
+    "description": "Решітка бампера",
+    "image_url": null,
+    "parent": {
+      "id": 15,
+      "name": "Бампер",
+      "product_standard_name": "Бампер",
+      "description": "Бампер",
+      "image_url": null,
+      "parent": {
+        "id": 271,
+        "name": "Оздоблення кузова",
+        "product_standard_name": "Оздоблення кузова",
+        "description": "Оздоблення кузова",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/271.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 216
+        },
+        {
+          "id": 271
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "name": "Решітка радіатора",
+    "product_standard_name": "Решітка радіатора",
+    "description": "Решітка радіатора",
+    "image_url": null,
+    "parent": {
+      "id": 271,
+      "name": "Оздоблення кузова",
+      "product_standard_name": "Оздоблення кузова",
+      "description": "Оздоблення кузова",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/271.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      },
+      {
+        "id": 271
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "name": "Робочий циліндр зчеплення",
+    "product_standard_name": "Робочий циліндр зчеплення",
+    "description": "Робочий циліндр зчеплення",
+    "image_url": null,
+    "parent": {
+      "id": 449,
+      "name": "Система зчеплення",
+      "product_standard_name": "Система зчеплення",
+      "description": "Система зчеплення",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/449.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 449
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "name": "Розподільний вал",
+    "product_standard_name": "Розподільний вал",
+    "description": "Розподільний вал",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "name": "Розширювальний бачок охолоджуючої рідини",
+    "product_standard_name": "Розширювальний бачок охолоджуючої рідини",
+    "description": "Розширювальний бачок охолоджуючої рідини",
+    "image_url": null,
+    "parent": {
+      "id": 445,
+      "name": "Система охолодження двигуна",
+      "product_standard_name": "Система охолодження двигуна",
+      "description": "Система охолодження двигуна",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/445.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 444
+      },
+      {
+        "id": 445
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "name": "Розширювальний клапан",
+    "product_standard_name": "Розширювальний клапан",
+    "description": "Розширювальний клапан",
+    "image_url": null,
+    "parent": {
+      "id": 190,
+      "name": "Кондиціонування повітря",
+      "product_standard_name": "Кондиціонування повітря",
+      "description": "Кондиціонування повітря",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/190.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 190
+      }
+    ]
+  },
+  {
+    "id": 418,
+    "name": "Рульове управління",
+    "product_standard_name": "Рульове управління",
+    "description": "Рульове управління",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/418.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 419,
+    "name": "Рульовий механізм",
+    "product_standard_name": "Рульовий механізм",
+    "description": "Рульовий механізм",
+    "image_url": null,
+    "parent": {
+      "id": 418,
+      "name": "Рульове управління",
+      "product_standard_name": "Рульове управління",
+      "description": "Рульове управління",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/418.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 418
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "name": "Ручка дверей",
+    "product_standard_name": "Ручка дверей",
+    "description": "Ручка дверей",
+    "image_url": null,
+    "parent": {
+      "id": 216,
+      "name": "Кузов",
+      "product_standard_name": "Кузов",
+      "description": "Кузов",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/216.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 430,
+    "name": "Сайлентблок",
+    "product_standard_name": "Сайлентблок",
+    "description": "Сайлентблок",
+    "image_url": null,
+    "parent": {
+      "id": 254,
+      "name": "Несучі елементи",
+      "product_standard_name": "Несучі елементи",
+      "description": "Несучі елементи",
+      "image_url": null,
+      "parent": {
+        "id": 300,
+        "name": "Підвіска",
+        "product_standard_name": "Підвіска",
+        "description": "Підвіска",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 300
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 254
+      }
+    ]
+  },
+  {
+    "id": 431,
+    "name": "Сальник вала диференціала",
+    "product_standard_name": "Сальник вала диференціала",
+    "description": "Сальник вала диференціала",
+    "image_url": null,
+    "parent": {
+      "id": 350,
+      "name": "Прокладки і ущільнюючі кільця",
+      "product_standard_name": "Прокладки і ущільнюючі кільця",
+      "description": "Прокладки і ущільнюючі кільця",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/350.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 350
+      },
+      {
+        "id": 488
+      }
+    ]
+  },
+  {
+    "id": 432,
+    "name": "Сальник колінвала",
+    "product_standard_name": "Сальник колінвала",
+    "description": "Сальник колінвала",
+    "image_url": null,
+    "parent": {
+      "id": 350,
+      "name": "Прокладки і ущільнюючі кільця",
+      "product_standard_name": "Прокладки і ущільнюючі кільця",
+      "description": "Прокладки і ущільнюючі кільця",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/350.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 350
+      }
+    ]
+  },
+  {
+    "id": 433,
+    "name": "Сальник розподільного вала",
+    "product_standard_name": "Сальник розподільного вала",
+    "description": "Сальник розподільного вала",
+    "image_url": null,
+    "parent": {
+      "id": 350,
+      "name": "Прокладки і ущільнюючі кільця",
+      "product_standard_name": "Прокладки і ущільнюючі кільця",
+      "description": "Прокладки і ущільнюючі кільця",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/350.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 350
+      }
+    ]
+  },
+  {
+    "id": 434,
+    "name": "Сальник ступиці колеса",
+    "product_standard_name": "Сальник ступиці колеса",
+    "description": "Сальник ступиці колеса",
+    "image_url": null,
+    "parent": {
+      "id": 350,
+      "name": "Прокладки і ущільнюючі кільця",
+      "product_standard_name": "Прокладки і ущільнюючі кільця",
+      "description": "Прокладки і ущільнюючі кільця",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/350.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 300
+      },
+      {
+        "id": 350
+      }
+    ]
+  },
+  {
+    "id": 436,
+    "name": "Свіча запалювання",
+    "product_standard_name": "Свіча запалювання",
+    "description": "Свіча запалювання",
+    "image_url": null,
+    "parent": {
+      "id": 443,
+      "name": "Система запалювання і розжарювання",
+      "product_standard_name": "Система запалювання і розжарювання",
+      "description": "Система запалювання і розжарювання",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/443.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 136
+      },
+      {
+        "id": 438
+      },
+      {
+        "id": 443
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 437,
+    "name": "Свічка розжарювання",
+    "product_standard_name": "Свічка розжарювання",
+    "description": "Свічка розжарювання",
+    "image_url": null,
+    "parent": {
+      "id": 443,
+      "name": "Система запалювання і розжарювання",
+      "product_standard_name": "Система запалювання і розжарювання",
+      "description": "Система запалювання і розжарювання",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/443.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 136
+      },
+      {
+        "id": 438
+      },
+      {
+        "id": 443
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 438,
+    "name": "Свічки",
+    "product_standard_name": "Свічки",
+    "description": "Свічки",
+    "image_url": null,
+    "parent": {
+      "id": 143,
+      "name": "Запчастини для ТО",
+      "product_standard_name": "Запчастини для ТО",
+      "description": "Запчастини для ТО",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/143.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 143
+      }
+    ]
+  },
+  {
+    "id": 442,
+    "name": "Система вприскування",
+    "product_standard_name": "Система вприскування",
+    "description": "Система вприскування",
+    "image_url": null,
+    "parent": {
+      "id": 447,
+      "name": "Система подачі палива",
+      "product_standard_name": "Система подачі палива",
+      "description": "Система подачі палива",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/447.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 447
+      }
+    ]
+  },
+  {
+    "id": 443,
+    "name": "Система запалювання і розжарювання",
+    "product_standard_name": "Система запалювання і розжарювання",
+    "description": "Система запалювання і розжарювання",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/443.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 449,
+    "name": "Система зчеплення",
+    "product_standard_name": "Система зчеплення",
+    "description": "Система зчеплення",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/449.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 444,
+    "name": "Система охолодження",
+    "product_standard_name": "Система охолодження",
+    "description": "Система охолодження",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 445,
+    "name": "Система охолодження двигуна",
+    "product_standard_name": "Система охолодження двигуна",
+    "description": "Система охолодження двигуна",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/445.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 446,
+    "name": "Система очищення скла і фар",
+    "product_standard_name": "Система очищення скла і фар",
+    "description": "Система очищення скла і фар",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/446.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 447,
+    "name": "Система подачі палива",
+    "product_standard_name": "Система подачі палива",
+    "description": "Система подачі палива",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/447.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 456,
+    "name": "Скло дверей",
+    "product_standard_name": "Скло дверей",
+    "description": "Скло дверей",
+    "image_url": null,
+    "parent": {
+      "id": 216,
+      "name": "Кузов",
+      "product_standard_name": "Кузов",
+      "description": "Кузов",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/216.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 457,
+    "name": "Скло дзеркала",
+    "product_standard_name": "Скло дзеркала",
+    "description": "Скло дзеркала",
+    "image_url": null,
+    "parent": {
+      "id": 216,
+      "name": "Кузов",
+      "product_standard_name": "Кузов",
+      "description": "Кузов",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/216.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 458,
+    "name": "Склоочисник",
+    "product_standard_name": "Склоочисник",
+    "description": "Склоочисник",
+    "image_url": null,
+    "parent": {
+      "id": 550,
+      "name": "Електричні компоненти",
+      "product_standard_name": "Електричні компоненти",
+      "description": "Електричні компоненти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 143
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "name": "Скління",
+    "product_standard_name": "Скління",
+    "description": "Скління",
+    "image_url": null,
+    "parent": {
+      "id": 216,
+      "name": "Кузов",
+      "product_standard_name": "Кузов",
+      "description": "Кузов",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/216.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 451,
+    "name": "Скоба гальмівного супорта",
+    "product_standard_name": "Скоба гальмівного супорта",
+    "description": "Скоба гальмівного супорта",
+    "image_url": null,
+    "parent": {
+      "id": 479,
+      "name": "Гальмівна система",
+      "product_standard_name": "Гальмівна система",
+      "description": "Гальмівна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/479.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 479
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "name": "Спойлер",
+    "product_standard_name": "Спойлер",
+    "description": "Спойлер",
+    "image_url": null,
+    "parent": {
+      "id": 271,
+      "name": "Оздоблення кузова",
+      "product_standard_name": "Оздоблення кузова",
+      "description": "Оздоблення кузова",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/271.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      },
+      {
+        "id": 271
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "name": "Стартер",
+    "product_standard_name": "Стартер",
+    "description": "Стартер",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 459,
+    "name": "Стійка стабілізатора",
+    "product_standard_name": "Стійка стабілізатора",
+    "description": "Стійка стабілізатора",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/459.jpg",
+    "parent": {
+      "id": 186,
+      "name": "Компоненти стабілізатора",
+      "product_standard_name": "Компоненти стабілізатора",
+      "description": "Компоненти стабілізатора",
+      "image_url": null,
+      "parent": {
+        "id": 300,
+        "name": "Підвіска",
+        "product_standard_name": "Підвіска",
+        "description": "Підвіска",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/300.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 300
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 186
+      }
+    ]
+  },
+  {
+    "id": 467,
+    "name": "Термовимикач вентилятора радіатора",
+    "product_standard_name": "Термовимикач вентилятора радіатора",
+    "description": "Термовимикач вентилятора радіатора",
+    "image_url": null,
+    "parent": {
+      "id": 101,
+      "name": "Датчики реле та блоки керування",
+      "product_standard_name": "Датчики реле та блоки керування",
+      "description": "Датчики реле та блоки керування",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/101.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 101
+      }
+    ]
+  },
+  {
+    "id": 468,
+    "name": "Термостат",
+    "product_standard_name": "Термостат",
+    "description": "Термостат",
+    "image_url": null,
+    "parent": {
+      "id": 445,
+      "name": "Система охолодження двигуна",
+      "product_standard_name": "Система охолодження двигуна",
+      "description": "Система охолодження двигуна",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/445.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 444
+      },
+      {
+        "id": 445
+      }
+    ]
+  },
+  {
+    "id": 488,
+    "name": "Трансмісія",
+    "product_standard_name": "Трансмісія",
+    "description": "Трансмісія",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/488.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 491,
+    "name": "Трос зчеплення",
+    "product_standard_name": "Трос зчеплення",
+    "description": "Трос зчеплення",
+    "image_url": null,
+    "parent": {
+      "id": 463,
+      "name": "Зчеплення",
+      "product_standard_name": "Зчеплення",
+      "description": "Зчеплення",
+      "image_url": null,
+      "parent": {
+        "id": 488,
+        "name": "Трансмісія",
+        "product_standard_name": "Трансмісія",
+        "description": "Трансмісія",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/488.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 143
+        },
+        {
+          "id": 488
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 449
+      },
+      {
+        "id": 463
+      }
+    ]
+  },
+  {
+    "id": 490,
+    "name": "Трос спідометра",
+    "product_standard_name": "Трос спідометра",
+    "description": "Трос спідометра",
+    "image_url": null,
+    "parent": {
+      "id": 550,
+      "name": "Електричні компоненти",
+      "product_standard_name": "Електричні компоненти",
+      "description": "Електричні компоненти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 153
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 492,
+    "name": "Тросик газу",
+    "product_standard_name": "Тросик газу",
+    "description": "Тросик газу",
+    "image_url": null,
+    "parent": {
+      "id": 447,
+      "name": "Система подачі палива",
+      "product_standard_name": "Система подачі палива",
+      "description": "Система подачі палива",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/447.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 447
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Труба вихлопу",
+    "product_standard_name": "Труба вихлопу",
+    "description": "Труба вихлопу",
+    "image_url": null,
+    "parent": {
+      "id": 65,
+      "name": "Вихлопна система",
+      "product_standard_name": "Вихлопна система",
+      "description": "Вихлопна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/65.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 65
+      }
+    ]
+  },
+  {
+    "id": 495,
+    "name": "Труби і шланги",
+    "product_standard_name": "Труби і шланги",
+    "description": "Труби і шланги",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/495.jpg",
+    "parent": null,
+    "all_parents": []
+  },
+  {
+    "id": 493,
+    "name": "Трубка кондиціонера",
+    "product_standard_name": "Трубка кондиціонера",
+    "description": "Трубка кондиціонера",
+    "image_url": null,
+    "parent": {
+      "id": 190,
+      "name": "Кондиціонування повітря",
+      "product_standard_name": "Кондиціонування повітря",
+      "description": "Кондиціонування повітря",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/190.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 190
+      },
+      {
+        "id": 495
+      }
+    ]
+  },
+  {
+    "id": 496,
+    "name": "Турбокомпресор",
+    "product_standard_name": "Турбокомпресор",
+    "description": "Турбокомпресор",
+    "image_url": null,
+    "parent": {
+      "id": 65,
+      "name": "Вихлопна система",
+      "product_standard_name": "Вихлопна система",
+      "description": "Вихлопна система",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/65.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 65
+      },
+      {
+        "id": 299
+      }
+    ]
+  },
+  {
+    "id": 518,
+    "name": "Фланець охолоджуючої рідини",
+    "product_standard_name": "Фланець охолоджуючої рідини",
+    "description": "Фланець охолоджуючої рідини",
+    "image_url": null,
+    "parent": {
+      "id": 445,
+      "name": "Система охолодження двигуна",
+      "product_standard_name": "Система охолодження двигуна",
+      "description": "Система охолодження двигуна",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/445.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 444
+      },
+      {
+        "id": 445
+      }
+    ]
+  },
+  {
+    "id": 507,
+    "name": "Фіксатор дверей",
+    "product_standard_name": "Фіксатор дверей",
+    "description": "Фіксатор дверей",
+    "image_url": null,
+    "parent": {
+      "id": 216,
+      "name": "Кузов",
+      "product_standard_name": "Кузов",
+      "description": "Кузов",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/216.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 510,
+    "name": "Фільтр масляний",
+    "product_standard_name": "Фільтр масляний",
+    "description": "Фільтр масляний",
+    "image_url": null,
+    "parent": {
+      "id": 448,
+      "name": "Мастильна система",
+      "product_standard_name": "Мастильна система",
+      "description": "Мастильна система",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 448
+      },
+      {
+        "id": 516
+      }
+    ]
+  },
+  {
+    "id": 559,
+    "name": "Фільтр масляний АКПП",
+    "product_standard_name": "Фільтр масляний АКПП",
+    "description": "Фільтр масляний АКПП",
+    "image_url": null,
+    "parent": {
+      "id": 516,
+      "name": "Фільтри",
+      "product_standard_name": "Фільтри",
+      "description": "Фільтри",
+      "image_url": null,
+      "parent": {
+        "id": 143,
+        "name": "Запчастини для ТО",
+        "product_standard_name": "Запчастини для ТО",
+        "description": "Запчастини для ТО",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/143.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 143
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 516
+      }
+    ]
+  },
+  {
+    "id": 508,
+    "name": "Фільтр салону",
+    "product_standard_name": "Фільтр салону",
+    "description": "Фільтр салону",
+    "image_url": null,
+    "parent": {
+      "id": 516,
+      "name": "Фільтри",
+      "product_standard_name": "Фільтри",
+      "description": "Фільтри",
+      "image_url": null,
+      "parent": {
+        "id": 143,
+        "name": "Запчастини для ТО",
+        "product_standard_name": "Запчастини для ТО",
+        "description": "Запчастини для ТО",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/143.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 143
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 190
+      },
+      {
+        "id": 516
+      }
+    ]
+  },
+  {
+    "id": 516,
+    "name": "Фільтри",
+    "product_standard_name": "Фільтри",
+    "description": "Фільтри",
+    "image_url": null,
+    "parent": {
+      "id": 143,
+      "name": "Запчастини для ТО",
+      "product_standard_name": "Запчастини для ТО",
+      "description": "Запчастини для ТО",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/143.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 143
+      }
+    ]
+  },
+  {
+    "id": 522,
+    "name": "Центральний замок",
+    "product_standard_name": "Центральний замок",
+    "description": "Центральний замок",
+    "image_url": null,
+    "parent": {
+      "id": 153,
+      "name": "Інтер'єр і комфорт",
+      "product_standard_name": "Інтер'єр і комфорт",
+      "description": "Інтер'єр і комфорт",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/153.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 153
+      },
+      {
+        "id": 216
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 523,
+    "name": "Центруючий опорний підшипник зчеплення",
+    "product_standard_name": "Центруючий опорний підшипник зчеплення",
+    "description": "Центруючий опорний підшипник зчеплення",
+    "image_url": null,
+    "parent": {
+      "id": 449,
+      "name": "Система зчеплення",
+      "product_standard_name": "Система зчеплення",
+      "description": "Система зчеплення",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/449.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 449
+      }
+    ]
+  },
+  {
+    "id": 561,
+    "name": "ШРУС внутрішній",
+    "product_standard_name": "ШРУС внутрішній",
+    "description": "ШРУС внутрішній",
+    "image_url": null,
+    "parent": {
+      "id": 327,
+      "name": "Привідний вал",
+      "product_standard_name": "Привідний вал",
+      "description": "Привідний вал",
+      "image_url": null,
+      "parent": {
+        "id": 326,
+        "name": "Привід колеса",
+        "product_standard_name": "Привід колеса",
+        "description": "Привід колеса",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/326.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 326
+        },
+        {
+          "id": 488
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 327
+      }
+    ]
+  },
+  {
+    "id": 560,
+    "name": "ШРУС зовнішній",
+    "product_standard_name": "ШРУС зовнішній",
+    "description": "ШРУС зовнішній",
+    "image_url": null,
+    "parent": {
+      "id": 327,
+      "name": "Привідний вал",
+      "product_standard_name": "Привідний вал",
+      "description": "Привідний вал",
+      "image_url": null,
+      "parent": {
+        "id": 326,
+        "name": "Привід колеса",
+        "product_standard_name": "Привід колеса",
+        "description": "Привід колеса",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/326.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 326
+        },
+        {
+          "id": 488
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 327
+      }
+    ]
+  },
+  {
+    "id": 529,
+    "name": "Шестерня колінвала",
+    "product_standard_name": "Шестерня колінвала",
+    "description": "Шестерня колінвала",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 531,
+    "name": "Шестерня розподільного вала",
+    "product_standard_name": "Шестерня розподільного вала",
+    "description": "Шестерня розподільного вала",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 536,
+    "name": "Шків генератора (механізм вільного ходу генератора)",
+    "product_standard_name": "Шків генератора (механізм вільного ходу генератора)",
+    "description": "Шків генератора (механізм вільного ходу генератора)",
+    "image_url": null,
+    "parent": {
+      "id": 550,
+      "name": "Електричні компоненти",
+      "product_standard_name": "Електричні компоненти",
+      "description": "Електричні компоненти",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/550.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 408
+      },
+      {
+        "id": 550
+      }
+    ]
+  },
+  {
+    "id": 537,
+    "name": "Шків колінчастого вала",
+    "product_standard_name": "Шків колінчастого вала",
+    "description": "Шків колінчастого вала",
+    "image_url": null,
+    "parent": {
+      "id": 387,
+      "name": "Ремінний і ланцюговий привід",
+      "product_standard_name": "Ремінний і ланцюговий привід",
+      "description": "Ремінний і ланцюговий привід",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 387
+      },
+      {
+        "id": 408
+      }
+    ]
+  },
+  {
+    "id": 470,
+    "name": "Штовхач клапана",
+    "product_standard_name": "Штовхач клапана",
+    "description": "Штовхач клапана",
+    "image_url": null,
+    "parent": {
+      "id": 104,
+      "name": "Двигун",
+      "product_standard_name": "Двигун",
+      "description": "Двигун",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 549,
+    "name": "Щуп оливний",
+    "product_standard_name": "Щуп оливний",
+    "description": "Щуп оливний",
+    "image_url": null,
+    "parent": {
+      "id": 448,
+      "name": "Мастильна система",
+      "product_standard_name": "Мастильна система",
+      "description": "Мастильна система",
+      "image_url": null,
+      "parent": {
+        "id": 104,
+        "name": "Двигун",
+        "product_standard_name": "Двигун",
+        "description": "Двигун",
+        "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/104.jpg",
+        "parent": null,
+        "all_parents": []
+      },
+      "all_parents": [
+        {
+          "id": 104
+        }
+      ]
+    },
+    "all_parents": [
+      {
+        "id": 448
+      }
+    ]
+  },
+  {
+    "id": 545,
+    "name": "Щітка склоочисника",
+    "product_standard_name": "Щітка склоочисника",
+    "description": "Щітка склоочисника",
+    "image_url": null,
+    "parent": {
+      "id": 446,
+      "name": "Система очищення скла і фар",
+      "product_standard_name": "Система очищення скла і фар",
+      "description": "Система очищення скла і фар",
+      "image_url": "https://s3.eu-central-1.amazonaws.com/media.mriyar.ua/media/product_lines_images/446.jpg",
+      "parent": null,
+      "all_parents": []
+    },
+    "all_parents": [
+      {
+        "id": 446
+      },
+      {
+        "id": 458
+      }
+    ]
+  }
+]
+}
