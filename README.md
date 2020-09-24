@@ -29,8 +29,8 @@ which will accordingly have the list of lower-level product lines.
 All elements can have multiple parents. You can see it in  all_parents field.
 4) Use html and scss to show product line tree.
 5) Design template you can get from ./assets/catalogDesignTemplates/
-6) By default show 5 subcategories max. If we click on "show more" - display all subcategories.
-7) If there are less than 5 subcategories (of any level?), you need to hide toggle button.
+6) By default, show 5 subcategories max. If we click on "show more" - display all subcategories.
+7) If there are less than 5 subcategories of any level, you need to hide toggle button.
 8) You can use any libraries for complete this task.
 
 
