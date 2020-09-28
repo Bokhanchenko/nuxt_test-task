@@ -15,15 +15,7 @@ export default {
 
   css: ['@/styles/global.scss'],
 
-  plugins: [],
-
-  components: true,
-
-  buildModules: [],
-
   modules: ['@nuxtjs/axios'],
-
-  axios: {},
 
   build: {
     extend (config, ctx) {
